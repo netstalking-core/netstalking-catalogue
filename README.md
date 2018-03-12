@@ -77,6 +77,9 @@ https://github.com/pantyusha/awesome-randomizers
 [H.I.D.D.E.N](https://vk.com/it_stalkers) - камеры, нетсталкинг в целом. 
 
  - Контактное лицо в тг - [@xx_Dragon_xx](https://t.me/xx_Dragon_xx)
+ 
+ - [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017
+
 
 Netstalking Expedition Team (Экспедиционный отряд) - команда занимается OSINT: как можно более полной проверкой вбросов, сомнительных теорий, фейков. 
 
@@ -84,11 +87,14 @@ Netstalking Expedition Team (Экспедиционный отряд) - кома
 
  - Сайт: http://netstalk.ru/
 
+
 [BlackNode Research](https://blog.blacknode.tk) - исследования на нейросетях и разработки для тематики.
 
  - Контактное лицо в тг - [@blacknode_researcher](https://t.me/blacknode_researcher)
 
-[Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные находки. Набор в группу через паблик.
+
+[Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные находки. Много внимания необычным или старым и заброшенным сайтам. Набор в группу через паблик.
+
 
 [location_u](https://t.me/l0cation_u) - сталкинг интересных объектов на картографических сервисах.
  - Контактное лицо в тг - [@antbzprdl](https://t.me/antbzprdl)
@@ -99,7 +105,9 @@ Netstalking Expedition Team (Экспедиционный отряд) - кома
 
 [Netstalking Godnota](https://t.me/netstalking_godnota) - архив полезных и интересных вещей из конфы "Точка Сбора", обладает внутренними подканалами для разных направлений.
 
-[Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - насканенные камерки
+[Asleep_Cams](https://t.me/asleep_cams) - канал свеженасканенных камер.
+
+[http://abslimit.info](http://abslimit.info) - личная коллекция Abslimit'а с нет-артами.
 
 [@netstalking_webcameras](https://t.me/netstalking_webcameras) - около миллиона скриншотов камер с ip-адресом и логином-паролем на момент обнаружения.
 
@@ -112,7 +120,6 @@ https://vk.com/web10 - образцы веба 1.0
 https://t.me/undetectedlink - ссылки на секретные чаты/каналы в телеграм, полученные с помощью дорков.
 
 https://t.me/deepwebpage - все интересные находки, вытащенные со сканбота Вечура и других рандомсталкерских источников, использовавшихся в Точке Сбора.
-
 
 
 ## Стороннее
