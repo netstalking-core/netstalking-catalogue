@@ -1,7 +1,7 @@
 
 # Каталог нетсталкерских ресурсов
 
-Данный каталог - дорожная карта по обозримому перечню полезных для нетсталкера сетевых площадок. Добавить себя, или запостить своё в Доску объявлений - обращайтесь в Точку Сбора.
+Данный каталог - дорожная карта по обозримому перечню полезных для нетсталкера сетевых площадок. Добавить себя, или запостить своё в Доску объявлений - обращайтесь в Точку Сбора либо [@netstalking_messenger_bot](https://t.me/netstalking_messenger_bot)
 
 
 
@@ -15,6 +15,7 @@
 
 [@netstalking_documents](https://t.me/netstalking_documents) ([дубль в вк](https://vk.com/netstalking_bulletin)) - Документы - подборка основной информации и гайдов по тематике
 
+[@netstalking_messenger_bot](https://t.me/netstalking_messenger_bot) - Подача заявок в bulletin и Каталог
 
 # Общий каталог
 ## Информация
@@ -79,7 +80,16 @@ https://github.com/pantyusha/awesome-randomizers
  - Контактное лицо в тг - [@xx_Dragon_xx](https://t.me/xx_Dragon_xx)
  
  - [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017
+ 
+ 
+[location_u](https://t.me/l0cation_u) - сталкинг интересных объектов на картографических сервисах.
+ - Контактное лицо в тг - [@antbzprdl](https://t.me/antbzprdl)
 
+[BlackNode Research](https://blog.blacknode.tk) - исследования на нейросетях и разработки для тематики.
+
+ - Контактное лицо в тг - [@blacknode_researcher](https://t.me/blacknode_researcher)
+
+[viewpoint](https://t.me/viewpoint_channel) - исследование закрытых сообществ и деструктивных сект.
 
 Netstalking Expedition Team (Экспедиционный отряд) - команда занимается OSINT: как можно более полной проверкой вбросов, сомнительных теорий, фейков. 
 
@@ -88,16 +98,8 @@ Netstalking Expedition Team (Экспедиционный отряд) - кома
  - Сайт: http://netstalk.ru/
 
 
-[BlackNode Research](https://blog.blacknode.tk) - исследования на нейросетях и разработки для тематики.
-
- - Контактное лицо в тг - [@blacknode_researcher](https://t.me/blacknode_researcher)
-
-
 [Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные находки. Много внимания необычным или старым и заброшенным сайтам. Набор в группу через паблик.
 
-
-[location_u](https://t.me/l0cation_u) - сталкинг интересных объектов на картографических сервисах.
- - Контактное лицо в тг - [@antbzprdl](https://t.me/antbzprdl)
 
 ## Контент
 
