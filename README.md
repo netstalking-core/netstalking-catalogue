@@ -43,12 +43,16 @@
 ## Инструменты и репозитории
 [Хидден-пак](https://yadi.sk/d/R0VdqI_93JyssH) - весь необходимый софт, собран и применяется группой H.I.D.D.E.N - набор инструкций и ссылок для начинающих от них же.
 
+[Camshift](https://t.me/camshift) - выкладывают в том числе софт для работы с камерами.
+
 ### Софт open-source
 Гиты и другие сорсы.
 
 [pantyusha](https://github.com/pantyusha) - грабберы ргхоста, сборка Нески, некоторый другой софт и гайды.
 
 [pereval-team](https://github.com/pereval-team) - Проект "Перевал", сборка серверного софта для собственного нетсталкерского сервера.
+
+[Скрипт Python3 для поиска и загрузки файлов из vk.com](https://github.com/r4nd0mus3rgit/vkdocdl)
 
  ### Боты в ТГ
 [Сканбот](https://t.me/xai7poozengee2Aen3poMookohthaZ) - рандомскан портов. Можно предложить в Точке Сбора диапазон на сканирование. Подканалы фильтруемых результатов: [HTTP](https://t.me/gohquooFee3duaNaeNuthushoh8di2) [FTP](https://t.me/aiWeipeighah7vufoHa0ieToipooYe) [Gopher](https://t.me/ohl7AeGah5uo8cho4nae9Eemaeyae3)
