@@ -19,10 +19,11 @@
 
 # Общий каталог
 ## Информация
-### Каналы ТГ
-[@netstalking_documents](https://t.me/netstalking) - подборка основной информации и гайдов по тематике
 
 [ultimate-netstalking-guide](https://github.com/pantyusha/ultimate-netstalking-guide/) - советы и ссылки на поисковики, файлообменники
+
+### Каналы ТГ
+[@netstalking_documents](https://t.me/netstalking) - подборка основной информации и гайдов по тематике
 
 [@netstalkcypher](https://t.me/netstalkcypher) - Образовательный канал по шифротекстам с гайдами
 
