@@ -98,7 +98,11 @@ https://github.com/pantyusha/awesome-randomizers
  
 [Asleep Netstalking Squad](https://vk.com/asleep_net) - камеры и избранные скриншоты с них. Красота в глазах смотрящего.
  
- - [Asleep_Cams](https://t.me/asleep_cams) - канал свеженасканенных камер в Telegram.
+- [Asleep_Cams](https://t.me/asleep_cams) - канал свеженасканенных камер в Telegram.
+
+- [Asleep Cams Aésthetic](https://t.me/asleepshit) - особенные кадры. Игра тени, симметрии и цвета. 
+
+- Контактное лицо в тг - [@schizotypal_disorder](https://t.me/schizotypal_disorder)
 
 
 [viewpoint](https://t.me/viewpoint_channel) - исследование закрытых сообществ и деструктивных сект.
