@@ -70,7 +70,7 @@ http://textfiles.com/directory.html - поиск по архивам BBS и са
 
 ### Рандомайзеры
 
-https://github.com/pantyusha/awesome-randomizers
+https://github.com/netstalking-core/awesome-randomizers
 
 ## Общение
 [@netstalking](https://t.me/netstalking) - Точка Сбора, центральная площадка для общения по тематике.
