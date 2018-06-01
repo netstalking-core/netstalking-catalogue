@@ -27,7 +27,7 @@
 
 [@netstalkcypher](https://t.me/netstalkcypher) - Образовательный канал по шифротекстам с гайдами
 
-[@netstaling_overground](https://t.me/netstalking_overground) - зеркало Оверграунда в ТГ
+[@netstalking_overground](https://t.me/netstalking_overground) - зеркало Оверграунда в ТГ
 
 ### Паблики ВК
 [Нетсталкинг Оверграунд](https://vk.com/netover) - призван сделать идеи и методы нетсталкинга более доступными. Гайды, ссылкоподборки, примеры поиска и заметки. Подходит для начального уровня. 
