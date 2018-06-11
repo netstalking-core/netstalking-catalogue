@@ -80,7 +80,7 @@ https://github.com/netstalking-core/awesome-randomizers
 ## Команды
 Возможно, вы станете участником одной из них. 
 
-[H.I.D.D.E.N](https://vk.com/it_stalkers) - камеры, нетсталкинг в целом. 
+[H.I.D.D.E.N](https://vk.com/stalkers_it) - камеры, нетсталкинг в целом. 
 
  - Контактное лицо в тг - [@xx_Dragon_xx](https://t.me/xx_Dragon_xx)
  
