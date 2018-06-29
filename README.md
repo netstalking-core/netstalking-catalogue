@@ -13,7 +13,7 @@
 
 [@netstalking_bulletin](https://t.me/netstalking_bulletin) ([дубль в вк](https://vk.com/netstalking_bulletin))- Доска новостей и объявлений: новые проекты, поиск участников на них, значимые результаты (обсуждать в Точке Сбора)
 
-[@netstalking_documents](https://t.me/netstalking_documents) ([дубль в вк](https://vk.com/netstalking_bulletin)) - Документы - подборка основной информации и гайдов по тематике
+[@netstalking_documents](https://t.me/netstalking_documents) ([дубль в вк](https://vk.com/netstalking_documents)) - Документы - подборка основной информации и гайдов по тематике
 
 [@netstalking_messenger_bot](https://t.me/netstalking_messenger_bot) - Подача заявок в bulletin и Каталог
 
@@ -23,7 +23,7 @@
 [ultimate-netstalking-guide](https://github.com/pantyusha/ultimate-netstalking-guide/) - советы и ссылки на поисковики, файлообменники
 
 ### Каналы ТГ
-[@netstalking_documents](https://t.me/netstalking) - подборка основной информации и гайдов по тематике
+[@netstalking_documents](https://t.me/netstalking_documents) - подборка основной информации и гайдов по тематике
 
 [@netstalkcypher](https://t.me/netstalkcypher) - Образовательный канал по шифротекстам с гайдами
 
