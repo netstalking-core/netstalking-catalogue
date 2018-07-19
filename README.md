@@ -75,6 +75,8 @@ https://github.com/netstalking-core/awesome-randomizers
 
 [@netstalking_networks](https://t.me/netstalking_networks) - исследование сетей разных типов - оверлейные, P2P, любительские VPN разной степени закрытости.
 
+[@google_docks](https://t.me/google_docks) - чат проекта по сбору закрытых гугл-документови изучению путей их попадания "на поверхность".
+
 [@runetstalking](https://t.me/runetstalking) - чатик паблика "Тихий дом 49406". Админ - Рескор.
 
 ## Команды
