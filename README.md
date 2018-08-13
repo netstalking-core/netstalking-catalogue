@@ -77,6 +77,8 @@ https://github.com/netstalking-core/awesome-randomizers
 
 [@google_docks](https://t.me/google_docks) - чат проекта по сбору закрытых гугл-документов и изучению путей их попадания "на поверхность".
 
+[@asleep_cg](https://t.me/asleep_cg) - всё о камерах: поиск, просмотр, разработка софта.
+
 [@runetstalking](https://t.me/runetstalking) - чатик паблика "Тихий дом 49406". Админ - Рескор.
 
 ## Команды
@@ -107,7 +109,7 @@ https://github.com/netstalking-core/awesome-randomizers
 
 - [Asleep Cams Aésthetic](https://t.me/asleepshit) - особенные кадры. Игра тени, симметрии и цвета. 
 
-- Контактное лицо в тг - [@schizotypal_disorder](https://t.me/schizotypal_disorder)
+- Контактное лицо в тг - [@Geheimnis_Gottes](https://t.me/Geheimnis_Gottes)
 
 
 [viewpoint](https://t.me/viewpoint_channel) - исследование закрытых сообществ и деструктивных сект.
