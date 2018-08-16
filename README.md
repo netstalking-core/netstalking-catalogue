@@ -85,8 +85,6 @@ https://github.com/netstalking-core/awesome-randomizers
 Возможно, вы станете участником одной из них. 
 
 [H.I.D.D.E.N](https://vk.com/stalkers_it) - камеры, нетсталкинг в целом. 
-
- - Контактное лицо в тг - [@xx_Dragon_xx](https://t.me/xx_Dragon_xx)
  
  - [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017
   
