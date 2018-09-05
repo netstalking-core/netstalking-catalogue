@@ -108,7 +108,7 @@ https://github.com/netstalking-core/awesome-randomizers
 
 [h0d](http://h0d.ru/) - команда, занимающаяся OSINT-расследованиями интересных и загадочных явлений. Является объединением [Netstalking Expedition Team](http://netstalk.ru/) и [Mini Intelligence Team](http://minteam.pw).
 
-- Контактное лицо в тг - [@dematerium_neo](https://t.me/dematerium_neo)
+- Контактное лицо в тг - [@solkogan](https://t.me/solkogan) или [@dematerium_neo](https://t.me/dematerium_neo)
 
 
 [Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные находки. В тг: [@darksearch_netstalking](https://t.me/darksearch_netstalking)
