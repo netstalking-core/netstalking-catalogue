@@ -57,6 +57,8 @@
 [Сканбот](https://t.me/xai7poozengee2Aen3poMookohthaZ) - рандомскан портов. Можно предложить в Точке Сбора диапазон на сканирование. Подканалы фильтруемых результатов: [HTTP](https://t.me/gohquooFee3duaNaeNuthushoh8di2) [FTP](https://t.me/aiWeipeighah7vufoHa0ieToipooYe) [Gopher](https://t.me/ohl7AeGah5uo8cho4nae9Eemaeyae3)
 
  ### Поисковики
+ 
+[Telegago](http://bit.ly/Telegago) - поисковик по Telegram, основанный на Google Custom Search Engine. Разработан и поддерживается [PCL](https://github.com/TelegramPCL).
 
 https://telegcrack.com/ - поисковик по Telegra.ph
 
