@@ -18,6 +18,7 @@
     - [Рандомайзеры](#Рандомайзеры)
   - [Общение](#Общение)
   - [Команды](#Команды)
+    - [Проекты](#Проекты)
   - [Контент](#Контент)
   - [Стороннее](#Стороннее)
 
@@ -58,7 +59,7 @@
 ## Инструменты и репозитории
 [Хидден-пак](https://yadi.sk/d/R0VdqI_93JyssH) - весь необходимый софт, собран и применяется группой H.I.D.D.E.N - набор инструкций и ссылок для начинающих от них же.
 
-[Camshift](https://t.me/camshift) - выкладывают в том числе софт для работы с камерами.
+[Camshift](https://t.me/camshift) - выкладывают новый софт для работы с камерами.
 
 ### Софт open-source
 Гиты и другие сорсы.
@@ -68,6 +69,7 @@
 [pereval-team](https://github.com/pereval-team) - Проект "Перевал", сборка серверного софта для собственного нетсталкерского сервера.
 
 [Скрипт Python3 для поиска и загрузки файлов из vk.com](https://github.com/r4nd0mus3rgit/vkdocdl)
+
 
  ### Боты в ТГ
 [Сканбот](https://t.me/xai7poozengee2Aen3poMookohthaZ) - рандомскан портов. Можно предложить в Точке Сбора диапазон на сканирование. Подканалы фильтруемых результатов: [HTTP](https://t.me/gohquooFee3duaNaeNuthushoh8di2) [FTP](https://t.me/aiWeipeighah7vufoHa0ieToipooYe) [Gopher](https://t.me/ohl7AeGah5uo8cho4nae9Eemaeyae3)
@@ -93,8 +95,6 @@ https://github.com/netstalking-core/awesome-randomizers
 
 [@netstalking_networks](https://t.me/netstalking_networks) - исследование сетей разных типов - оверлейные, P2P, любительские VPN разной степени закрытости.
 
-[@google_docks](https://t.me/google_docks) - чат проекта по сбору закрытых гугл-документов и изучению путей их попадания "на поверхность".
-
 [@asleep_cg](https://t.me/asleep_cg) - всё о камерах: поиск, просмотр, разработка софта.
 
 [@runetstalking](https://t.me/runetstalking) - чатик паблика "Тихий дом 49406". Админ - Рескор.
@@ -102,10 +102,6 @@ https://github.com/netstalking-core/awesome-randomizers
 ## Команды
 Возможно, вы станете участником одной из них. 
 
-[H.I.D.D.E.N](https://vk.com/stalkers_it) - камеры, нетсталкинг в целом. 
- 
- - [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017
-  
 
 [BlackNode Research](https://blog.blacknode.tk) - исследования на нейросетях и разработки для тематики.
 
@@ -121,16 +117,27 @@ https://github.com/netstalking-core/awesome-randomizers
 - Контактное лицо в тг - [@eclipsim](https://t.me/eclipsim)
 
 
-[viewpoint](https://t.me/viewpoint_channel) - исследование закрытых сообществ и деструктивных сект.
-
-
 [h0d](http://h0d.ru/) - команда, занимающаяся OSINT-расследованиями интересных и загадочных явлений. Является объединением [Netstalking Expedition Team](http://netstalk.ru/) и [Mini Intelligence Team](http://minteam.pw).
 
 - Контактное лицо в тг - [@solkogan](https://t.me/solkogan) или [@dematerium_neo](https://t.me/dematerium_neo)
 
 
+[H.I.D.D.E.N](https://vk.com/stalkers_it) - камеры, нетсталкинг в целом. 
+ 
+ - [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017
+ 
+
+[viewpoint](https://t.me/viewpoint_channel) - исследование закрытых сообществ и деструктивных сект.
+
+
 [Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные находки. В тг: [@darksearch_netstalking](https://t.me/darksearch_netstalking)
 
+### Проекты
+Внекомандные проекты, обычно сосредоточенные на одной узкой сфере нетсталкинга.
+
+[Ужасающая правда о гуглдоках](https://t.me/google_docks) - Проект по сбору закрытых гугл-документов и изучению путей их попадания "на поверхность".
+
+[Компас](https://t.me/newscompas) - проект разработки сервиса анализа новостных кейсов и отсева fake news. Присоединиться к обсуждению через [@M0VE21](https://t.me/M0VE21)
 
 ## Контент
 
