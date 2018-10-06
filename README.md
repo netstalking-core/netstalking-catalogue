@@ -122,15 +122,15 @@ https://github.com/netstalking-core/awesome-randomizers
 - Контактное лицо в тг - [@solkogan](https://t.me/solkogan) или [@dematerium_neo](https://t.me/dematerium_neo)
 
 
-[H.I.D.D.E.N](https://vk.com/stalkers_it) - камеры, нетсталкинг в целом. 
- 
- - [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017
- 
-
 [viewpoint](https://t.me/viewpoint_channel) - исследование закрытых сообществ и деструктивных сект.
 
 
 [Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные находки. В тг: [@darksearch_netstalking](https://t.me/darksearch_netstalking)
+
+
+~~[H.I.D.D.E.N](https://vk.com/stalkers_it) - камеры, нетсталкинг в целом.~~
+ 
+ - ~~[Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017~~
 
 ### Проекты
 Внекомандные проекты, обычно сосредоточенные на одной узкой сфере нетсталкинга.
