@@ -39,6 +39,8 @@
 
 [ultimate-netstalking-guide](https://github.com/pantyusha/ultimate-netstalking-guide/) - советы и ссылки на поисковики, файлообменники.
 
+[Network neighborhood](http://netwhood.online) - мануалы и инфа по сетевым технологиям, включая оверлейные и альтернативные сети. Чат проекта: [@netstalking_networks](https://t.me/netstalking_networks)
+
 ### Каналы ТГ
 [@netstalking_documents](https://t.me/netstalking_documents) - подборка основной информации и гайдов по тематике.
 
