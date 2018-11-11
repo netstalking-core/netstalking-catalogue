@@ -111,9 +111,10 @@ https://github.com/netstalking-core/awesome-randomizers
  - Новости проекта - [@newscompas](http://t.me/newscompas)
  
 
-[BlackNode Research](https://blog.blacknode.tk) - исследования на нейросетях и разработки для тематики.
+[BlackNode Research](https://t.me/blacknode_research) - исследования на нейросетях и разработки для тематики.
 
  - Контактное лицо в тг - [@blacknode_researcher](https://t.me/blacknode_researcher)
+ - ~~Сайт blacknode.tk~~ - **домен угнан**
  
  
 [Asleep Netstalking Squad](https://vk.com/asleep_net) - камеры и избранные скриншоты с них. Красота в глазах смотрящего.
@@ -136,9 +137,11 @@ https://github.com/netstalking-core/awesome-randomizers
 [Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные находки. В тг: [@darksearch_netstalking](https://t.me/darksearch_netstalking)
 
 
-~~[H.I.D.D.E.N](https://vk.com/stalkers_it) - камеры, нетсталкинг в целом.~~
+[H.I.D.D.E.N](https://vk.com/stalkers_it) - камеры, нетсталкинг в целом.
  
- - ~~[Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017~~
+ - [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017
+ 
+ - Контактное лицо в тг - [@GodStrategist](https://t.me/GodStrategist)
 
 ### Проекты
 Внекомандные проекты, обычно сосредоточенные на одной узкой сфере нетсталкинга.
