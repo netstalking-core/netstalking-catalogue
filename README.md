@@ -107,20 +107,7 @@ https://github.com/netstalking-core/awesome-randomizers
 ## Команды
 Возможно, вы станете участником одной из них. 
 
-[Kompas Research](http://www.project-kompas.cf/) - Мы разрабатываем инструмент, который может помочь любому лучше ориентироваться в новостях и инфосреде. Нам нужны программисты на Python, журналисты и энтузиасты.
-
- - Контактное лицо в тг, помочь донатом - [@M0VE21](http://t.me/M0VE21)
- 
- - Новости проекта - [@newscompas](http://t.me/newscompas)
- 
-
-[BlackNode Research](https://t.me/blacknode_research) - исследования на нейросетях и разработки для тематики.
-
- - Контактное лицо в тг - [@blacknode_researcher](https://t.me/blacknode_researcher)
- - ~~Сайт blacknode.tk~~ - **домен угнан**
- 
- 
-[Asleep Netstalking Squad](https://vk.com/asleep_net) - камеры и избранные скриншоты с них. Красота в глазах смотрящего.
+[Asleep Netstalking Squad](https://vk.com/asleep_net) - **камеры** и избранные скриншоты с них. Красота в глазах смотрящего.
  
 - [Asleep_Cams](https://t.me/asleep_cams) - канал свеженасканенных камер в Telegram. [@asleep_cg](https://t.me/asleep_cg) - чат для разбора, обсуждения и разработки средств наскана камер.
 
@@ -129,15 +116,15 @@ https://github.com/netstalking-core/awesome-randomizers
 - Контактное лицо в тг - [@eclipsim](https://t.me/eclipsim)
 
 
-[h0d](http://h0d.ru/) - команда, занимающаяся OSINT-расследованиями интересных и загадочных явлений. Является объединением [Netstalking Expedition Team](http://netstalk.ru/) и [Mini Intelligence Team](http://minteam.pw).
+[h0d](http://h0d.ru/) - команда, занимающаяся OSINT-**расследованиями** интересных и загадочных явлений. Является объединением [Netstalking Expedition Team](http://netstalk.ru/) и [Mini Intelligence Team](http://minteam.pw).
 
-- Контактное лицо в тг - [@solkogan](https://t.me/solkogan) или [@dematerium_neo](https://t.me/dematerium_neo)
+- Контактное лицо в тг - [@solkogan](https://t.me/solkogan)
+
+
+[Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные на их взгляд находки. В тг: [@darksearch_netstalking](https://t.me/darksearch_netstalking)
 
 
 [viewpoint](https://t.me/viewpoint_channel) - исследование закрытых сообществ и деструктивных сект.
-
-
-[Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные находки. В тг: [@darksearch_netstalking](https://t.me/darksearch_netstalking)
 
 
 [H.I.D.D.E.N](https://vk.com/stalkers_it) - камеры, нетсталкинг в целом.
@@ -145,23 +132,35 @@ https://github.com/netstalking-core/awesome-randomizers
  - [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017
  
  - Контактное лицо в тг - [@GodStrategist](https://t.me/GodStrategist)
+ 
+ 
+ [BlackNode Research](https://t.me/blacknode_research) - исследования на нейросетях и разработки для тематики.
+
+ - Контактное лицо в тг - [@blacknode_researcher](https://t.me/blacknode_researcher)
+ - ~~Сайт blacknode.tk~~ - **домен угнан**
+ 
 
 ### Проекты
 Внекомандные проекты, обычно сосредоточенные на одной узкой сфере нетсталкинга.
 
 [Ужасающая правда о гуглдоках](https://t.me/google_docks) - Проект по сбору закрытых гугл-документов и изучению путей их попадания "на поверхность".
 
-[Компас](https://t.me/newscompas) - проект разработки сервиса анализа новостных кейсов и отсева fake news. Присоединиться к обсуждению через [@M0VE21](https://t.me/M0VE21)
+[Kompas Research](http://www.project-kompas.cf/) - Мы разрабатываем инструмент, который может помочь любому лучше ориентироваться в новостях и инфосреде. Нам нужны программисты на Python, журналисты и энтузиасты.
+
+ - Контактное лицо в тг, помочь донатом - [@M0VE21](http://t.me/M0VE21)
+ 
+ - Новости проекта - [@newscompas](http://t.me/newscompas)
+ 
+[Отклик](https://t.me/otklik_dev)
+Разработка децентрализованного хранилища нетсталкерских находок с плагинами, в т.ч. сканером. Предлагайте свои идеи.
 
 ## Контент
 
-Обработанные и необработанные результаты сканирования, ручного поиска, парсинга, граббинга и т.п. То, что вне команд.
+То, что вне команд. Обработанные и необработанные результаты сканирования, ручного поиска, парсинга, граббинга и т.п.
 
 [Netstalking Godnota](https://t.me/netstalking_godnota) - архив всех сколь-нибудь полезных и интересных вещей из конфы "Точка Сбора", обладает внутренними подканалами для разных направлений и еженедельным рейтингом активности.
 
 https://t.me/deepwebpage - избранные дипвеб-находки, вытащенные со сканбота Вечура и других рандомсталкерских источников, использовавшихся в Точке Сбора.
-
-[Asleep_Cams](https://t.me/asleep_cams) - канал свеженасканенных камер.
 
 [http://abslimit.info/webcollection](http://abslimit.info/webcollection) - личная коллекция Abslimit'а с нет-артами.
 
