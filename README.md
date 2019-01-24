@@ -114,6 +114,8 @@ https://github.com/netstalking-core/awesome-randomizers
 
 - [Asleep Cams Aésthetic](https://t.me/asleepshit) - особенные кадры. Игра тени, симметрии и цвета. 
 
+- https://t.me/ccaammss
+
 - Контактное лицо в тг - [@eclipsim](https://t.me/eclipsim)
 
 
@@ -153,7 +155,9 @@ https://github.com/netstalking-core/awesome-randomizers
  - Новости проекта - [@newscompas](http://t.me/newscompas)
  
 [Отклик](https://t.me/otklik_dev)
-Разработка децентрализованного хранилища нетсталкерских находок с плагинами, в т.ч. сканером. Предлагайте свои идеи.
+ - Разработка Aдецентрализованного хранилища нетсталкерских находок с плагинами, в т.ч. сканером. Предлагайте свои идеи.
+
+[PySca Dev Chat](https://t.me/joinchat/GaxQCErJ2F8216etSKttbg) - Девелоперский чат для обсуждения на тему переписывания Nesca на Python (с использованием PyQt).
 
 ## Контент
 
