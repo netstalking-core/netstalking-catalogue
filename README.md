@@ -117,11 +117,6 @@ https://github.com/netstalking-core/awesome-randomizers
 - Контактное лицо в тг - [@eclipsim](https://t.me/eclipsim)
 
 
-[h0d](http://h0d.ru/) - команда, занимающаяся OSINT-**расследованиями** интересных и загадочных явлений. Является объединением [Netstalking Expedition Team](http://netstalk.ru/) и [Mini Intelligence Team](http://minteam.pw).
-
-- Контактное лицо в тг - [@solkogan](https://t.me/solkogan)
-
-
 [Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные на их взгляд находки. В тг: [@darksearch_netstalking](https://t.me/darksearch_netstalking)
 
 
@@ -134,8 +129,11 @@ https://github.com/netstalking-core/awesome-randomizers
  
  - Контактное лицо в тг - [@GodStrategist](https://t.me/GodStrategist)
  
- 
- [BlackNode Research](https://t.me/blacknode_research) - исследования на нейросетях и разработки для тематики.
+
+--[h0d](http://h0d.ru/) - команда, занимающаяся OSINT-расследованиями интересных и загадочных явлений. Является объединением [Netstalking Expedition Team](http://netstalk.ru/) и [Mini Intelligence Team](http://minteam.pw).--
+
+
+[BlackNode Research](https://t.me/blacknode_research) - исследования на нейросетях и разработки для тематики.
 
  - Контактное лицо в тг - [@blacknode_researcher](https://t.me/blacknode_researcher)
  - ~~Сайт blacknode.tk~~ - **домен угнан**
@@ -195,6 +193,8 @@ https://hrazvedka.ru - блог и копилка знаний специали�
 [Downgrade](http://dgmag.in/) - журнал о старинном железе и софте, у которого есть и подраздел о сетях.
 
 [Чудеса OSINT](https://t.me/russianosint) - короткие расследования на основе открытых данных.
+
+[I'm On Fire](https://t.me/imonfire_official) - OSINT как путь к свободе.
 
 [Утечки информации](https://t.me/dataleak) - авторские статьи про утечки данных, информационная безопасность.
   
