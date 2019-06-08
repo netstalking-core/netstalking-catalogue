@@ -77,6 +77,10 @@
 
 
  ### Боты в ТГ
+[Netstalking Narod](https://t.me/netstalking_narod) - проект по архивации популярнейшего бесплатного хостинга, контент которого медленно выпиливается новым владельцем
+ 
+[Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - случайный сайт с более позднего бесплатного хостинга sitecity.ru
+ 
 [Сканбот](https://t.me/xai7poozengee2Aen3poMookohthaZ) - рандомскан портов. Можно предложить в Точке Сбора диапазон на сканирование. Подканалы фильтруемых результатов: [HTTP](https://t.me/gohquooFee3duaNaeNuthushoh8di2) [FTP](https://t.me/aiWeipeighah7vufoHa0ieToipooYe) [Gopher](https://t.me/ohl7AeGah5uo8cho4nae9Eemaeyae3)
 
  ### Поисковики
@@ -98,12 +102,16 @@ https://github.com/netstalking-core/awesome-randomizers
 ## Общение
 [@netstalking](https://t.me/netstalking) - Точка Сбора, центральная площадка для общения по тематике.
 
-[@netstalking_networks](https://t.me/netstalking_networks) - исследование сетей разных типов - оверлейные, P2P, любительские VPN разной степени закрытости.
+[Network Neighborhood](https://t.me/netstalking_networks) - сетевые соседушки. Исследование сетей разных типов - оверлейные, P2P, любительские VPN разной степени закрытости.
 
-[@asleep_cg](https://t.me/asleep_cg) - всё о камерах: поиск, просмотр, разработка софта.
+[Asleep Cams](https://t.me/asleep_cg) - всё о камерах: поиск, просмотр, разработка софта.
+
+[Мусорщики Web 1.0](https://t.me/web10_scavengerd) - проект парсинга и сохранения наследия "наивного" раннего веба. Приют ностальгирующих и любителей эстетики кустарного дизайна.
 
 [@runetstalking](https://t.me/runetstalking) - чатик паблика "Тихий дом 49406". Админ - Рескор. 
   - [форум](https://forum.netstalking.ru)
+
+[R4D4N](https://t.me/r4d4n) - собрание радиосталкеров
 
 ## Команды
 Возможно, вы станете участником одной из них. 
