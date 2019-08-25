@@ -106,14 +106,19 @@ https://github.com/netstalking-core/awesome-randomizers
 ## Общение
 [@netstalking](https://t.me/netstalking) - Точка Сбора, центральная площадка для общения по тематике.
 
-[Network Neighborhood](https://t.me/netstalking_networks) - сетевые соседушки. Исследование сетей разных типов - оверлейные, P2P, любительские VPN разной степени закрытости.
+[Network Neighborhood](https://t.me/netstalking_networks) - сетевые соседушки. Исследование сетей разных типов - оверлейные, P2P, любительские VPN разной степени закрытости. Активно подключаются к Yggdrasil.
 
 [Asleep Cams](https://t.me/asleep_cg) - всё о камерах: поиск, просмотр, разработка софта.
 
 [Мусорщики Web 1.0](https://t.me/web10_scavengerd) - проект парсинга и сохранения наследия "наивного" раннего веба. Приют ностальгирующих и любителей эстетики кустарного дизайна.
 
-[@runetstalking](https://t.me/runetstalking) - чатик паблика "Тихий дом 49406". Админ - Рескор. 
-  - [форум](https://forum.netstalking.ru)
+[49406-форум](https://forum.netstalking.ru) - нетсталкерский форум по всем направлениям. Есть свой [музей находок](http://museum.netstalking.ru).
+
+ - [канал](https://t.me/runetstalking)
+ 
+ - [чат](https://t.me/runschat)
+ 
+[Нетсталкинг на spaces](https://spcs.me/soo/netstalking/) - старинная тематическая площадка на бывшем spaces.ru
 
 [R4D4N](https://t.me/r4d4n) - собрание радиосталкеров
 
@@ -139,7 +144,7 @@ https://github.com/netstalking-core/awesome-randomizers
  
  - [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в тг, последние обновления - сентябрь 2017
  
- - Контактное лицо в тг - [@GodStrategist](https://t.me/GodStrategist)
+ - Контактное лицо в тг - [@v0id3r](https://t.me/v0id3r)
  
 
 --[h0d](http://h0d.ru/) - команда, занимающаяся OSINT-расследованиями интересных и загадочных явлений. Является объединением [Netstalking Expedition Team](http://netstalk.ru/) и [Mini Intelligence Team](http://minteam.pw).--
@@ -154,6 +159,8 @@ https://github.com/netstalking-core/awesome-randomizers
 ### Проекты и разработка
 Внекомандные проекты, обычно сосредоточенные на одной узкой сфере нетсталкинга.
 
+[PySca Dev Chat](https://t.me/joinchat/GaxQCErJ2F8216etSKttbg) - Девелоперский чат для обсуждения на тему переписывания Nesca на Python (с использованием PyQt).
+
 [Ужасающая правда о гуглдоках](https://t.me/google_docks) - Проект по сбору закрытых гугл-документов и изучению путей их попадания "на поверхность".
 
 [Kompas Research](http://www.project-kompas.cf/) - Мы разрабатываем инструмент, который может помочь любому лучше ориентироваться в новостях и инфосреде. Нам нужны программисты на Python, журналисты и энтузиасты.
@@ -164,8 +171,6 @@ https://github.com/netstalking-core/awesome-randomizers
  
 [Отклик](https://t.me/otklik_dev)
  - Разработка децентрализованного хранилища нетсталкерских находок с плагинами, в т.ч. сканером. Предлагайте свои идеи.
-
-[PySca Dev Chat](https://t.me/joinchat/GaxQCErJ2F8216etSKttbg) - Девелоперский чат для обсуждения на тему переписывания Nesca на Python (с использованием PyQt).
 
 [Influence](https://t.me/influence_dev) - чат по разработке децентрализованного мессенджера на Андроид.
 
@@ -183,9 +188,11 @@ https://github.com/netstalking-core/awesome-randomizers
 
 [@DarkGodnota](https://t.me/DarkGodnota) - вопреки названию, никаких "тёмных" сайтов. Хорошо разобранные интересные скрытосервисы (сайты Tor)
 
-https://t.me/deepwebpage - избранные дипвеб-находки, вытащенные со сканбота Вечура и других рандомсталкерских источников, использовавшихся в Точке Сбора.
+[Deep Web Page](https://t.me/deepwebpage) - избранные дипвеб-находки, вытащенные со сканбота Вечура и других рандомсталкерских источников, использовавшихся в Точке Сбора.
 
 [http://abslimit.info/webcollection](http://abslimit.info/webcollection) - личная коллекция Abslimit'а с нет-артами.
+
+[Тёмная Тайга](https://vk.com/clubonionrus) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера. [Есть чат](https://t.me/taikulonionrus).
 
 https://t.me/privatelinks - ссылки на секретные чаты/каналы в телеграм, полученные с помощью дорков.
 
@@ -211,6 +218,8 @@ https://vas3k.ru - OSINT-исследования и отменные поиск
 https://hrazvedka.ru - блог и копилка знаний специалистки в конкурентной разведке (то же, что и OSINT) с каталогом поисковиков, инструментов, аналитическими статьями и рекомендациями.
 
 [Цирроз интернета](https://t.me/no_internet) - канал о "необычных закоулках интернета", анонимности и новостях.
+
+[Web 1.0](https://t.me/web1_0) - История Всемирной Паутины. Заметки об истории Рунета.
 
 [Downgrade](http://dgmag.in/) - журнал о старинном железе и софте, у которого есть и подраздел о сетях.
 
