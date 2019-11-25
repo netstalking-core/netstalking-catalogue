@@ -137,7 +137,10 @@ https://github.com/netstalking-core/awesome-randomizers
 - Контактное лицо в тг - [@eclipsim](https://t.me/eclipsim)
 
 
-[Darksearch](https://vk.com/darksearch) - стараются постить только наиболее интересные на их взгляд находки. В тг: [@darksearch_netstalking](https://t.me/darksearch_netstalking)
+[Тёмная Тайга](https://vk.com/clubonionrus) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера. [Есть чат](https://t.me/taikulonionrus).
+
+
+[Darksearch](https://vk.com/darksearch) - позиционируют себя как центральная команда, выкладывающая лучшие находки. На практике часто репостят чужое, в т.ч. без обратной ссылки. В рабочем чате замечено распространение мальварей под видом Asleep Scanner. В тг: [@darksearch_netstalking](https://t.me/darksearch_netstalking)
 
 
 [viewpoint](https://t.me/viewpoint_channel) - исследование закрытых сообществ и деструктивных сект.
@@ -198,8 +201,6 @@ https://github.com/netstalking-core/awesome-randomizers
 [Deep Web Page](https://t.me/deepwebpage) - избранные дипвеб-находки, вытащенные со сканбота Вечура и других рандомсталкерских источников, использовавшихся в Точке Сбора.
 
 [http://abslimit.info/webcollection](http://abslimit.info/webcollection) - личная коллекция Abslimit'а с нет-артами.
-
-[Тёмная Тайга](https://vk.com/clubonionrus) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера. [Есть чат](https://t.me/taikulonionrus).
 
 [192.168.1.1](https://t.me/ipshit) - сливы наскана по http(s): заглушки, формы доступа, а иногда и более интересные вещи.
 
