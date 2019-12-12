@@ -86,7 +86,9 @@
  
 [Сканбот](https://t.me/xai7poozengee2Aen3poMookohthaZ) - рандомскан портов. Можно предложить в Точке Сбора диапазон на сканирование. Подканалы фильтруемых результатов: [HTTP](https://t.me/gohquooFee3duaNaeNuthushoh8di2) [FTP](https://t.me/aiWeipeighah7vufoHa0ieToipooYe) [Gopher](https://t.me/ohl7AeGah5uo8cho4nae9Eemaeyae3)
 
-[Random FTP Image](https://t.me/joinchat/AAAAAFcy531tlC9K6WP5BQ) - JPEG-изображения со случайных FTP-серверов
+[Random FTP Image](https://t.me/joinchat/AAAAAFcy531tlC9K6WP5BQ) - JPEG-изображения со случайных FTP-серверов (Был забанен за NSFW)
+
+[Random FTP Image 2](https://t.me/netstalking_ftp2) - Второй канал со случайными изображениями с FTP-серверов.
 
 [RandomShots](https://t.me/randscrshot) - случайные изображения с сервиса хранения скриншотов prnt.sc. Старая версия: [🛰 Lightshot Scanner](https://t.me/joinchat/AAAAAFAj36SRunHF_jrnfg)
 
