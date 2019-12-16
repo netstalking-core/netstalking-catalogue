@@ -48,6 +48,10 @@
 
 [@netstalking_overground](https://t.me/netstalking_overground) - зеркало Оверграунда в ТГ.
 
+[@konofound](https://t.me/konofound) - 220 OK, RTSP noauth камеры и прочая открытая (!) прелесть.
+
+[NSG - Системы управления](https://t.me/joinchat/AAAAAFF7PfUCYhD7a1Pp4A) - Системы управления АСУ ТП, САУ, PLC контроллеры, DCS, SCADA и IIoT.
+
 ### Паблики ВК
 [Нетсталкинг Оверграунд](https://vk.com/netover) - призван сделать идеи и методы нетсталкинга более доступными. Гайды, ссылкоподборки, примеры поиска и заметки. Подходит для начального уровня. 
 
