@@ -140,7 +140,9 @@ https://github.com/netstalking-core/awesome-randomizers
 
 - [Asleep Cams Aésthetic](https://t.me/asleepshit) - особенные кадры. Игра тени, симметрии и цвета. 
 
-- Контактное лицо в тг - [@eclipsim](https://t.me/eclipsim)
+- Контактное лицо в тг - [@Dicrurus](https://t.me/Dicrurus)
+
+- [сайт](http://ordo-asleep.online)
 
 
 [Тёмная Тайга](https://vk.com/clubonionrus) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера. [Есть чат](https://t.me/taikulonionrus).
