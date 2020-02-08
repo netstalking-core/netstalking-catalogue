@@ -169,6 +169,10 @@ https://github.com/netstalking-core/awesome-randomizers
  - Контактное лицо в тг - [@blacknode_researcher](https://t.me/blacknode_researcher)
  - ~~Сайт blacknode.tk~~ - **домен угнан**
  
+ [unknwn404](https://t.me/unknwn404_official) - небольшая нетсталкерская команда unknwn404, выкладывают ссылки на необычные сайты из Tor и клирнета.
+ [Есть чат](https://t.me/unknwn404_public_group).
+ 
+ 
 
 ### Проекты и разработка
 Внекомандные проекты, обычно сосредоточенные на одной узкой сфере нетсталкинга.
