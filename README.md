@@ -145,7 +145,7 @@ https://github.com/netstalking-core/awesome-randomizers
 - [сайт](http://ordo-asleep.online)
 
 
-[Тёмная Тайга](https://vk.com/clubonionrus) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера. [Есть чат](https://t.me/taikulonionrus).
+[Тёмная Тайга](https://vk.com/clubonionrus) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера. [Есть чат](https://t.me/taiga_land).
 
 
 [Darksearch](https://vk.com/darksearch) - позиционируют себя как центральная команда, выкладывающая лучшие находки. На практике часто репостят чужое, в т.ч. без обратной ссылки. В рабочем чате замечено распространение мальварей под видом Asleep Scanner. В тг: [@darksearch_netstalking](https://t.me/darksearch_netstalking)
