@@ -173,6 +173,13 @@ https://github.com/netstalking-core/awesome-randomizers
  [Есть чат](https://t.me/unknwn404_public_group).
  
  
+[Netstalking - Internet Exploration](https://t.me/internetexpl0rati0n) -  Англоязычное сообщество исследователей
+
+ - [Darknet Archive](https://t.me/Darknet_planet) - Interesting Darknet sites - Darknet for everyone
+ - [The dark corner of the surface](https://t.me/dark_surface)
+ - [Digital Eyes](https://t.me/Netstalking_Eyes) - Webcams + [group](https://t.me/Netstalkingeyes)
+ - [Netstalking- Gopherspace Exploration](https://t.me/Netstalking_Gopher)
+ - [Netstalking- Telnet, BBS & SSH Universe](https://t.me/telnetkey)
 
 ### Проекты и разработка
 Внекомандные проекты, обычно сосредоточенные на одной узкой сфере нетсталкинга.
