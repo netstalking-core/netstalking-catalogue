@@ -3,10 +3,17 @@ if [ "${TRAVIS_EVENT_TYPE}" = "push" ] && [ "${TRAVIS_BRANCH}" = "master" ]; the
   if git diff --exit-code --quiet ; then
     echo "Nothing to commit"
   else
+    # russian version is default
+    cp README.ru.md README.md
+
     git config --global user.email "travis@travis-ci.org"
     git config --global user.name "Travis CI"
 
+    # add localized files
     git add README.*.md
+
+    # add default
+    git add README.md
 
     git commit --message "[ci skip] travis build: ${TRAVIS_BUILD_NUMBER}"
 
