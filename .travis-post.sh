@@ -10,3 +10,9 @@ if [ "${TRAVIS_EVENT_TYPE}" = "push" ] && [ "${TRAVIS_BRANCH}" = "master" ]; the
   git push https://vechur:${GH_TOKEN}@github.com/netstalking-core/netstalking-catalogue.git HEAD:master
 
 fi
+
+if [ "${TRAVIS_EVENT_TYPE}" = "pull_request" ]; then
+  for md_file in $(ls -1 README.*.md); do
+    diff ${md_file}.pre ${md_file}
+  done
+fi

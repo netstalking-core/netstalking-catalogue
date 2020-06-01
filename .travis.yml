@@ -3,6 +3,8 @@ python:
   - "3.7"
 install:
   - pip install pyyaml pydantic
+before_script:
+  - ./.travis-pre.sh
 script:
   - python process.py
 after_success:
