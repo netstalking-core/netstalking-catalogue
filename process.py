@@ -2,52 +2,52 @@
 from __future__ import annotations
 
 # models
-import typing
+from typing import Dict, Optional, List
 import pydantic
 
 import yaml
 
 
-class Description(typing.Dict):
+class Description(Dict):
     pass
 
 class TOCSection(pydantic.BaseModel):
-    head: typing.Dict[str, str]
-    children: typing.Optional[typing.Dict[str, TOCSection]]
-    description: typing.Optional[Description]
+    head: Dict[str, str]
+    children: Optional[Dict[str, TOCSection]]
+    description: Optional[Description]
 
 # required because of self-referencing
 TOCSection.update_forward_refs()
 
 class Link(pydantic.BaseModel):
-    link: typing.Optional[str]
-    name: typing.Optional[str]
-    description: typing.Optional[Description]
+    link: Optional[str]
+    name: Optional[str]
+    description: Optional[Description]
 
 # Item is a Link with or without child Links
 class Item(Link):
-    links: typing.Optional[typing.List[Link]]
+    links: Optional[List[Link]]
 
 class Section(pydantic.BaseModel):
-    items: typing.Optional[typing.List[Item]]
-    children: typing.Optional[typing.Dict[str, Section]]
+    items: Optional[List[Item]]
+    children: Optional[Dict[str, Section]]
 
 # required because of self-referencing
 Section.update_forward_refs()
 
 class Document(pydantic.BaseModel):
-    languages: typing.Dict[str, typing.Dict]
-    head: typing.Dict[str, str]
-    description: typing.Dict[str, str]
-    toc: typing.Dict[str, TOCSection]
-    content: typing.Dict[str, Section]
+    languages: Dict[str, Dict]
+    head: Dict[str, str]
+    description: Dict[str, str]
+    toc: Dict[str, TOCSection]
+    content: Dict[str, Section]
 
 # required because of self-referencing
 Document.update_forward_refs()
 
 
 # recursively generate Table of Contents
-def generate_toc(toc: typing.Dict[str, TOCSection], lang: str, depth = 0):
+def generate_toc(toc: Dict[str, TOCSection], lang: str, depth = 0):
     # for each section
     for name, section in toc.items():
         # prepare link by replacing spaces in header with hyphens
@@ -91,7 +91,7 @@ def generate_item(item: Item, lang: str):
 
 
 # recursively generate contents
-def generate_content(content: typing.Dict[str, Section], toc: typing.Dict[str, TOCSection], lang: str, depth = 0):
+def generate_content(content: Dict[str, Section], toc: Dict[str, TOCSection], lang: str, depth = 0):
     # for each section
     for name, section in content.items():
         print(' - Section', name)
