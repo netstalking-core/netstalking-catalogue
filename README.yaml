@@ -366,11 +366,6 @@ content:
                 description:
                   ru: Канал
                   en: Channel
-          - name: Анимежабы и Сетевые Искатели
-            link: https://t.me/network_explorers
-            description:
-              ru: Конференция для свободного обмена информацией и общения.
-              en: Conference for free information sharing and free communication
           - name: Netstalking - Internet Exploration
             link: https://t.me/internetexpl0rati0n
             description:
@@ -395,6 +390,25 @@ content:
                 link: https://t.me/Netstalking_Gopher
               - name: Netstalking- Telnet, BBS & SSH Universe
                 link: https://t.me/telnetkey
+          - description:
+              ru: Околотематическое общение
+              en: Near-thematic low-moderated chats
+            links:
+            - name: Точка Выхода
+              link: https://t.me/joinchat/B17SF07L7phzDcqUIaeQ7w
+              description:
+                ru: Дочерняя конференция Точки Сбора для свободного общения
+                en: Child conference of Точка Сбора for free communication
+            - name: Анимежабы и Сетевые Искатели
+              link: https://t.me/network_explorers
+              description:
+                ru: Конференция для свободного обмена информацией и общения.
+                en: Conference for free information sharing and free communication
+            - name: Альтернативная Точка Выхода
+              link: https://t.me/joinchat/GaxQCEVlKw5sSBX9u_pohw
+              description: 
+                ru: Площадка для нетематического общения
+                en: Platform for non-topic communication
       teams:
         items:
           - name: Asleep Netstalking Squad
