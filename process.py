@@ -1,8 +1,11 @@
+# required for self-referencing to work in pydantic models
 from __future__ import annotations
 
-import pydantic
-import yaml
+# models
 import typing
+import pydantic
+
+import yaml
 
 
 class Description(typing.Dict):
@@ -13,23 +16,23 @@ class TOCSection(pydantic.BaseModel):
     children: typing.Optional[typing.Dict[str, TOCSection]]
     description: typing.Optional[Description]
 
+# required because of self-referencing
 TOCSection.update_forward_refs()
 
 class Link(pydantic.BaseModel):
-    link: str
-    name: typing.Optional[str]
-    description: typing.Optional[Description]
-
-class Item(pydantic.BaseModel):
     link: typing.Optional[str]
     name: typing.Optional[str]
     description: typing.Optional[Description]
+
+# Item is a Link with or without child Links
+class Item(Link):
     links: typing.Optional[typing.List[Link]]
 
 class Section(pydantic.BaseModel):
     items: typing.Optional[typing.List[Item]]
     children: typing.Optional[typing.Dict[str, Section]]
 
+# required because of self-referencing
 Section.update_forward_refs()
 
 class Document(pydantic.BaseModel):
@@ -39,54 +42,99 @@ class Document(pydantic.BaseModel):
     toc: typing.Dict[str, TOCSection]
     content: typing.Dict[str, Section]
 
+# required because of self-referencing
 Document.update_forward_refs()
 
-data = Document(**yaml.safe_load(open('README.yaml')))
 
-def print_toc(toc: typing.Dict[str, TOCSection], lang: str, depth = 0):
+# recursively generate Table of Contents
+def generate_toc(toc: typing.Dict[str, TOCSection], lang: str, depth = 0):
+    # for each section
     for name, section in toc.items():
+        # prepare link by replacing spaces in header with hyphens
         link = section.head[lang].replace(' ', '-')
-        print(f"{depth * ' '}- [{section.head[lang]}](#{link})")
+        # yield link as '- [HeaderName](#HeaderLink)'
+        yield f"{depth * ' '}- [{section.head[lang]}](#{link})"
+        # call the same for children, if any
         if section.children:
-            print_toc(section.children, lang, depth + 2)
+            yield from generate_toc(section.children, lang, depth + 2)
 
-def print_item(item: Item, lang: str, child = False):
-    line = "" if not child else " * "
-    if item.name:
-        if item.link:
-            line = f"[{item.name}]({item.link})"
+
+# Link(link='http', name='name', description={'lg': 'desc'}) => ' * [name](http) - desc'
+# Link(name='name', description={'lg': 'desc'}) => ' * name - desc'
+# Link(link='http', description={'lg': 'desc'}) => ' * <http> - desc'
+# Link(link='http', name='name') => ' * [name](http)'
+# `child` parameter adds two spaces, making link a sub-link of previous one
+def generate_link(link: Link, lang: str, child = False):
+    line = " * " if not child else "   * "
+    if link.name:
+        if link.link:
+            line += f"[{link.name}]({link.link})"
         else:
-            line = item.name
+            line += link.name
     else:
-        if item.link:
-            line = f"<{item.link}>"
-    if item.description:
-        if item.name or item.link:
+        if link.link:
+            line += f"<{link.link}>"
+    if link.description:
+        if link.name or link.link:
             line += " - "
-        line += item.description[lang]
-    print(line)
+        line += link.description[lang]
+    yield line
+
+
+# generate link from itself
+def generate_item(item: Item, lang: str):
+    yield from generate_link(item, lang)
+    # do the same for children if any
     if item.links:
         for link in item.links:
-            print_item(Item(**link.dict()), lang, True)
+            yield from generate_link(Item(**link.dict()), lang, True)
 
 
-def print_content(content: typing.Dict[str, Section], toc: typing.Dict[str, TOCSection], lang: str, depth = 0):
+# recursively generate contents
+def generate_content(content: typing.Dict[str, Section], toc: typing.Dict[str, TOCSection], lang: str, depth = 0):
+    # for each section
     for name, section in content.items():
+        print(' - Section', name)
+        # yield heading and empty line
         heading = toc[name].head[lang]
-        print(f"#{depth * '#'}", heading)
-        print()
+        yield f"#{depth * '#'} {heading}"
+        yield ""
+        # if there is description, yield it
+        if toc[name].description:
+            yield toc[name].description[lang]
+        # yield each item
         for item in section.items:
-            print_item(item, lang)
-            print()
+            yield from generate_item(item, lang)
+            yield ""
+        # do the same for children if any
         if section.children:
             toc_section = toc[name].children
-            print_content(section.children, toc_section, lang, depth + 1)
+            yield from generate_content(section.children, toc_section, lang, depth + 1)
 
+
+def generate_readme(document: Document, lang: str):
+    # yield heading
+    yield f"# {document.head[lang]}"
+    yield ""
+    # yield description
+    yield document.description[lang]
+    yield ""
+    # yield table of contents
+    yield from generate_toc(data.toc, lang)
+    yield ""
+    # yield content
+    yield from generate_content(data.content, data.toc, lang)
+
+
+# load Document from yaml
+data = Document(**yaml.safe_load(open('README.yaml')))
+
+# for each language
 for lang in data.languages:
-    print("#", data.head[lang])
-    print()
-    print(data.description[lang])
-    print()
-    print_toc(data.toc, lang)
-    print()
-    print_content(data.content, data.toc, lang)
+    print('Generating for lang', lang)
+    # open i18n file
+    with open(f"README.{lang}.md", 'w') as readme:
+        # generate content
+        for line in generate_readme(data, lang):
+            # write each line
+            readme.write(line + '\n')
