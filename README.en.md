@@ -238,7 +238,7 @@ What is **outside teams and projects** (their content is in the relevant section
 
  * [Onion Links](https://t.me/RussianOnionLinks) - Here you can find useful darknet links. Throw your links in the offer. Records are periodically updated.
 
- * [Свалка нетсталкерских находок](https://t.me/finds_dump_netstalking) - A channel for unstructured highlighting of interesting finds that were found in various conferences on non-stalking topics.
+ * [Свалка нетсталкерских находок](https://t.me/finds_dump_netstalking) - A channel for unstructured highlighting of interesting finds that were found in various conferences on netstalking topics.
 
 ## Others
 
