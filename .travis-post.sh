@@ -5,7 +5,7 @@ if [ "${TRAVIS_EVENT_TYPE}" = "push" ] && [ "${TRAVIS_BRANCH}" = "master" ]; the
 
   git add README.*.md
 
-  git commit --message "Travis build: ${TRAVIS_BUILD_NUMBER}"
+  git commit --message "[ci skip] travis build: ${TRAVIS_BUILD_NUMBER}"
 
   git push https://vechur:${GH_TOKEN}@github.com/netstalking-core/netstalking-catalogue.git HEAD:master
 
