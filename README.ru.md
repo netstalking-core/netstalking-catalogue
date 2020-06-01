@@ -140,8 +140,6 @@
  * [DD-Netstalking](https://t.me/joinchat/FjxW7UwGQXC5p8I6kO2UjA) - Чат для несталкинга и обсуждения всего, что к нему относится.
    * [Netstalking is our life](https://t.me/netstalkinglife) - Канал
 
- * [Анимежабы и Сетевые Искатели](https://t.me/network_explorers) - Конференция для свободного обмена информацией и общения.
-
  * [Netstalking - Internet Exploration](https://t.me/internetexpl0rati0n) - Англоязычное сообщество исследователей
    * [Darknet Archive](https://t.me/Darknet_planet) - Интересные сайты Даркнета - Даркнет для всех
    * [The dark corner of the surface](https://t.me/dark_surface)
@@ -149,6 +147,11 @@
    * [DIgital Eyes (group)](https://t.me/Netstalkingeyes)
    * [Netstalking- Gopherspace Exploration](https://t.me/Netstalking_Gopher)
    * [Netstalking- Telnet, BBS & SSH Universe](https://t.me/telnetkey)
+
+ * Околотематическое общение
+   * [Точка Выхода](https://t.me/joinchat/B17SF07L7phzDcqUIaeQ7w) - Дочерняя конференция Точки Сбора для свободного общения
+   * [Анимежабы и Сетевые Искатели](https://t.me/network_explorers) - Конференция для свободного обмена информацией и общения.
+   * [Альтернативная Точка Выхода](https://t.me/joinchat/GaxQCEVlKw5sSBX9u_pohw) - Площадка для нетематического общения
 
 ## Команды
 

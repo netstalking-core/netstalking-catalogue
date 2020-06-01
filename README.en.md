@@ -140,8 +140,6 @@ Thematic and near-thematic videos and streams
  * [DD-Netstalking](https://t.me/joinchat/FjxW7UwGQXC5p8I6kO2UjA) - Chat about netstalking and everything related.
    * [Netstalking is our life](https://t.me/netstalkinglife) - Channel
 
- * [Анимежабы и Сетевые Искатели](https://t.me/network_explorers) - Conference for free information sharing and free communication
-
  * [Netstalking - Internet Exploration](https://t.me/internetexpl0rati0n) - English-speaking community of researchers
    * [Darknet Archive](https://t.me/Darknet_planet) - Interesting Darknet sites - Darknet for everyone
    * [The dark corner of the surface](https://t.me/dark_surface)
@@ -149,6 +147,11 @@ Thematic and near-thematic videos and streams
    * [DIgital Eyes (group)](https://t.me/Netstalkingeyes)
    * [Netstalking- Gopherspace Exploration](https://t.me/Netstalking_Gopher)
    * [Netstalking- Telnet, BBS & SSH Universe](https://t.me/telnetkey)
+
+ * Near-thematic low-moderated chats
+   * [Точка Выхода](https://t.me/joinchat/B17SF07L7phzDcqUIaeQ7w) - Child conference of Точка Сбора for free communication
+   * [Анимежабы и Сетевые Искатели](https://t.me/network_explorers) - Conference for free information sharing and free communication
+   * [Альтернативная Точка Выхода](https://t.me/joinchat/GaxQCEVlKw5sSBX9u_pohw) - Platform for non-topic communication
 
 ## Teams
 
