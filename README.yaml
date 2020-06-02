@@ -272,6 +272,11 @@ content:
                 description:
                   ru: Это интерактивный Каталог, сделанный из материалов основного каталога
                   en: Is an interactive Catalogue, based on this one.
+              - name: HowToFind Bot
+                link: https://t.me/HowToFind_bot
+                description:
+                  ru: Помощник OSINT. Каталог техник и ресурсов.
+                  en: Assistant in OSINT. Prompts techniques and resources
           search_engines:
             items:
               - name: Telegago
