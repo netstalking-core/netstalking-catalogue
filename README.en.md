@@ -100,6 +100,8 @@ Thematic and near-thematic videos and streams
 
  * [Netstalking Ultimate Links Spreading Bot](https://t.me/netstalking_links_bot) - Is an interactive Catalogue, based on this one.
 
+ * [HowToFind Bot](https://t.me/HowToFind_bot) - Assistant in OSINT. Prompts techniques and resources
+
 ### Search engines
 
  * [Telegago](http://bit.ly/Telegago) - Telegram search engine based on Google Custom Search Engine. Developed and maintained by [PCL](https://github.com/TelegramPCL)

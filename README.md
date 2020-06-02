@@ -100,6 +100,8 @@
 
  * [Netstalking Ultimate Links Spreading Bot](https://t.me/netstalking_links_bot) - Это интерактивный Каталог, сделанный из материалов основного каталога
 
+ * [HowToFind Bot](https://t.me/HowToFind_bot) - Помощник OSINT. Каталог техник и ресурсов.
+
 ### Поисковики
 
  * [Telegago](http://bit.ly/Telegago) - поисковик по Telegram, основанный на Google Custom Search Engine. Разработан и поддерживается [PCL](https://github.com/TelegramPCL).
