@@ -643,6 +643,11 @@ content:
             description:
               ru: Канал для неструктуризированного выделения интересных находок, которые были найдены в различных конференциях по нетсталкерской тематике.
               en: A channel for unstructured highlighting of interesting finds that were found in various conferences on netstalking topics.
+          - name: ARTSTALKING
+            link: https://t.me/ARTSTALLING
+            description:
+              ru: Здесь вы найдёте контент по искусству
+              en: Here you can find content about different arts
       other:
         items:
           - name: "@DEFCON7495"
