@@ -13,7 +13,7 @@ class Description(Dict):
 
 class TOCSection(pydantic.BaseModel):
     head: Dict[str, str]
-    children: Optional[Dict[str, TOCSection]]
+    children: Optional[Dict[str, TOCSection]] = None
     description: Optional[Description]
 
 # required because of self-referencing
@@ -30,7 +30,7 @@ class Item(Link):
 
 class Section(pydantic.BaseModel):
     items: Optional[List[Item]]
-    children: Optional[Dict[str, Section]]
+    children: Optional[Dict[str, Section]] = None
 
 # required because of self-referencing
 Section.update_forward_refs()
