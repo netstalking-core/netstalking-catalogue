@@ -242,6 +242,8 @@ What is **outside teams and projects** (their content is in the relevant section
 
  * [Свалка нетсталкерских находок](https://t.me/finds_dump_netstalking) - A channel for unstructured highlighting of interesting finds that were found in various conferences on netstalking topics.
 
+ * [ARTSTALKING](https://t.me/ARTSTALLING) - Here you can find content about different arts
+
 ## Others
 
 Of interest to the subject, although created outside of it.
