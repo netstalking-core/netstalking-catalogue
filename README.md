@@ -165,7 +165,7 @@
    * [Dicrurus Adsimilis](https://t.me/Dicrurus) - Контактное лицо в ТГ
    * [Ordo Asleep](http://ordo-asleep.online) - Сайт
 
- * [Тёмная Тайга](https://vk.com/clubonionrus) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера
+ * [Тёмная Тайга](https://vk.com/taiga_project) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера
    * <https://t.me/taiga_land> - Чат
 
  * [Darksearch](https://vk.com/darksearch) - позиционируют себя как центральная команда, выкладывающая лучшие находки. На практике часто репостят чужое, в т.ч. без обратной ссылки. В рабочем чате замечено распространение мальварей под видом Asleep Scanner.
