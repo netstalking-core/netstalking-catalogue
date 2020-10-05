@@ -87,6 +87,7 @@
  * Случайный сайт и его скриншот с бесплатных хостингов
    * [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - более поздний хостинг sitecity.ru
    * [Ucoz.ru randomscan](https://t.me/ucozru_randomscan) - ucoz.ru
+   * [neocities.org Bot](https://t.me/neocities_bot) - neocities.org
    * [Borda.ru randomscan](https://t.me/bordaru_randomscan) - borda.ru
    * [Fatal.ru randomscan](https://t.me/fatalru_randomscan) - fatal.ru
    * [CHAT.RU](https://t.me/ChatRU_randomscan) - chat.ru
