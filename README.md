@@ -87,9 +87,11 @@
  * Случайный сайт и его скриншот с бесплатных хостингов
    * [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - более поздний хостинг sitecity.ru
    * [Ucoz.ru randomscan](https://t.me/ucozru_randomscan) - ucoz.ru
+   * [neocities.org Bot](https://t.me/neocities_bot) - neocities.org
    * [Borda.ru randomscan](https://t.me/bordaru_randomscan) - borda.ru
    * [Fatal.ru randomscan](https://t.me/fatalru_randomscan) - fatal.ru
    * [CHAT.RU](https://t.me/ChatRU_randomscan) - chat.ru
+   * [Webhost.ru](https://t.me/webhost_archive) - webhost.ru
 
  * Сканбот - рандомскан портов
    * [HTTP](https://t.me/gohquooFee3duaNaeNuthushoh8di2)
@@ -110,6 +112,8 @@
  * [HowToFind Bot](https://t.me/HowToFind_bot) - Помощник OSINT. Каталог техник и ресурсов.
  
  * [[NSG Asleep] Twonky](https://t.me/tw0nky) - изображения из случайных серверов Twonkymedia.
+ 
+ * [Spy Camera (CCTV)](https://t.me/camera_spy) - случайные камеры.
 
 ### Поисковики
 
@@ -158,7 +162,7 @@
    * [DIgital Eyes (group)](https://t.me/Netstalkingeyes)
    * [Netstalking- Gopherspace Exploration](https://t.me/Netstalking_Gopher)
    * [Netstalking- Telnet, BBS & SSH Universe](https://t.me/telnetkey)
-   * [Radiostalking](https://t.me/Radiostalking_j45)
+   * [Radiostalking](https://t.me/Radiostalking_j45) - веб-радиостанции.
    * [Webscraping - OpenNIC](https://t.me/opennic2) - сайты с необычными OpenNic-доменами.
 
  * Околотематическое общение
@@ -173,6 +177,7 @@
    * [Asleep_Cams](https://t.me/asleep_cams) - канал свеженасканенных камер в Telegram.
    * [@asleep_cg](https://t.me/asleep_cg) - чат для разбора, обсуждения и разработки средств наскана камер.
    * [Asleep Cams Aésthetic](https://t.me/asleepshit) - особенные кадры. Игра тени, симметрии и цвета.
+   * [Asleep NET-squad](https://t.me/asleep_cams/2285) - конференция поисковой группы.
    * [Dicrurus Adsimilis](https://t.me/Dicrurus) - Контактное лицо в ТГ.
    * [Ordo Asleep](http://ordo-asleep.online) - Сайт.
 
@@ -216,6 +221,8 @@
  * [Randomchaos](https://t.me/randomaesthetic) - cайты как искусство или не особо.
 
  * [|_C@m$_|](https://t.me/ccaammss) - необычные скриншоты с камер наблюдения.
+ 
+ * [E:/cam_stalk](https://t.me/cam_stalk) - аналогично "Бесконечные блуждения по камерам".
 
  * [Горизонт Событий](https://t.me/darknet_prison) - наиболее активный и объёмный архив свежих сайтов из Тора с описаниями и разборами.
 
@@ -249,8 +256,6 @@
 
  * [/home/user/netstalking/screenshots](https://t.me/netstalking_screenshots) - Канал со скриншотами веб-страниц.
 
- * [Webhost.ru](https://t.me/webhost_archive) - Автопостинг сайтов с сервиса Webhost.ru
-
  * [Сайты одного сервера reg.ru](https://t.me/RegRuLeaks) - URL сайтов которые хостятся на сервере Reg.ru. Количество сайтов: 588,121
 
  * [/home/user/netstalking/onions](https://t.me/onionnetstalk) - Скриншоты сайтов .onion (Tor).
@@ -260,6 +265,8 @@
  * [Свалка нетсталкерских находок](https://t.me/finds_dump_netstalking) - Канал для неструктуризированного выделения интересных находок, которые были найдены в различных конференциях по нетсталкерской тематике.
 
  * [ARTSTALKING](https://t.me/ARTSTALLING) - Здесь вы найдёте контент по искусству.
+ 
+ * [Geography Cyberspace](https://t.me/netstalky) - Информация о географии киберпространства.
  
  * [WebCamWatcher](https://t.me/WebCamWatcher) - рандомные скриншоты диких животных с камер германских и африканских заповедников.
  
