@@ -112,6 +112,8 @@
  * [HowToFind Bot](https://t.me/HowToFind_bot) - Помощник OSINT. Каталог техник и ресурсов.
  
  * [[NSG Asleep] Twonky](https://t.me/tw0nky) - изображения из случайных серверов Twonkymedia.
+ 
+ * [Spy Camera (CCTV)](https://t.me/camera_spy) - случайные камеры.
 
 ### Поисковики
 
