@@ -141,7 +141,7 @@
 
  * [49406](https://netstalking.ru) - нетсталкерский сайт по всем направлениям.
    * [Форум](http://forum.netstalking.ru) - форум с находками, гайдами и просто общением.
-   * [Музей](http://museum.netstalking.ru) - музей находок.
+   * [Музей](http://museum.netstalking.ru) - музей старых сайтов и интересных проектов.
    * [49406](https://t.me/runetstalking) - канал.
    * <https://t.me/runschat> - чат.
    * [Дискорд](https://netstalking.ru/discord.html) - дискорд канал
