@@ -139,10 +139,12 @@
 
  * [Мусорщики Web 1.0](https://t.me/web10_scavengers) - проект парсинга и сохранения наследия "наивного" раннего веба. Приют ностальгирующих и любителей эстетики кустарного дизайна.
 
- * [49406-форум](https://forum.netstalking.ru) - нетсталкерский форум по всем направлениям.
-   * [Музей](http://museum.netstalking.ru) - Музей находок.
+ * [49406](https://netstalking.ru) - нетсталкерский сайт по всем направлениям.
+   * [Форум](http://forum.netstalking.ru) - форум с находками, гайдами и просто общением.
+   * [Музей](http://museum.netstalking.ru) - музей находок.
    * [49406](https://t.me/runetstalking) - канал.
    * <https://t.me/runschat> - чат.
+   * [Дискорд](https://netstalking.ru/discord.html) - дискорд канал
 
  * [Нетсталкинг на spaces](https://spcs.me/soo/netstalking/) - старинная тематическая площадка на бывшем spaces.ru
 
