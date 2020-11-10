@@ -235,6 +235,11 @@ content:
                 description:
                   ru: случайный сайт и его скриншот с более позднего бесплатного хостинга sitecity.ru
                   en: random sites and their screenshots from newer free hosting sitecity.ru
+              - name: CCTV vision
+                link: https://t.me/cctv_vision
+                description:
+                  ru: Снапшоты с камер, идексированных поисковиком Shodan
+                  en: Snapshots from cameras indexed by Shodan search engine
               - name: Сканбот
                 description: 
                   ru: рандомскан портов
