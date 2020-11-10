@@ -86,6 +86,8 @@
 
  * [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - случайный сайт и его скриншот с более позднего бесплатного хостинга sitecity.ru
 
+ * [CCTV vision](https://t.me/cctv_vision) - Снапшоты с камер, идексированных поисковиком Shodan
+
  * Сканбот - рандомскан портов
    * [HTTP](https://t.me/gohquooFee3duaNaeNuthushoh8di2)
    * [FTP](https://t.me/aiWeipeighah7vufoHa0ieToipooYe)

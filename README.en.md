@@ -86,6 +86,8 @@ Thematic and near-thematic videos and streams
 
  * [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - random sites and their screenshots from newer free hosting sitecity.ru
 
+ * [CCTV vision](https://t.me/cctv_vision) - Snapshots from cameras indexed by Shodan search engine
+
  * Сканбот - random scanning ports
    * [HTTP](https://t.me/gohquooFee3duaNaeNuthushoh8di2)
    * [FTP](https://t.me/aiWeipeighah7vufoHa0ieToipooYe)
