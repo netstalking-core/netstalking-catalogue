@@ -79,6 +79,8 @@
  * [Скрипт Python3 для поиска и загрузки файлов из vk.com](https://github.com/r4nd0mus3rgit/vkdocdl)
 
  * [Скрипт генерации случайных доменов](https://github.com/XRetr0/net-trash-generator/)
+ 
+ * [Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer](https://github.com/enemy-submarine/pidrila/)
 
 ### Боты в ТГ
 
@@ -198,6 +200,8 @@
 
  * [Influence](https://t.me/influence_dev) - чат по разработке децентрализованного мессенджера на Андроид.
    * [Github](https://github.com/ChronosX88/Influence-android)
+   
+ * [PIDRILA Dev Chat](https://t.me/pidrila_dev) - Девелоперский чат для обсуждения на тему разработки web-сканера PIDRILA
 
 ## Контент
 
