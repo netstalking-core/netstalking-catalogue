@@ -84,7 +84,12 @@ Thematic and near-thematic videos and streams
 
  * [Netstalking Narod](https://t.me/netstalking_narod) - archiving project of the popular free hosting Narod.ru, permanent posting of sites and descriptions.
 
- * [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - random sites and their screenshots from newer free hosting sitecity.ru
+ * Случайный сайт и его скриншот с бесплатных хостингов
+   * [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - random sites and their screenshots from newer free hosting sitecity.ru
+   * [Ucoz.ru randomscan](https://t.me/ucozru_randomscan) - ucoz.ru
+   * [Borda.ru randomscan](https://t.me/bordaru_randomscan) - borda.ru
+   * [Fatal.ru randomscan](https://t.me/fatalru_randomscan) - fatal.ru
+   * [CHAT.RU](https://t.me/ChatRU_randomscan) - chat.ru
 
  * [CCTV vision](https://t.me/cctv_vision) - Snapshots from cameras indexed by Shodan search engine
 
@@ -99,6 +104,8 @@ Thematic and near-thematic videos and streams
 
  * [RandomShots](https://t.me/randscrshot) - random images from screenshot service prnt.sc
    * [🛰 Lightshot Scanner](https://t.me/joinchat/AAAAAFAj36SRunHF_jrnfg) - Old version
+
+ * [Radiostalking](https://t.me/Radiostalking_j45) - web radio stations
 
  * [Netstalking Ultimate Links Spreading Bot](https://t.me/netstalking_links_bot) - Is an interactive Catalogue, based on this one.
 
@@ -122,8 +129,6 @@ Thematic and near-thematic videos and streams
 
 ## Communities
 
- * [@netstalking](https://t.me/netstalking) - Точка Сбора, central community for thematic talks
-
  * [Network Neighborhood](https://t.me/netstalking_networks) - network neighbors. Exploring different networks - overlay, P2P, amateur VPN. Actively participate in Yggdrasil.
 
  * [Asleep Cams](https://t.me/asleep_cg) - Everything about cameras: searching, viewing, software development
@@ -132,8 +137,10 @@ Thematic and near-thematic videos and streams
 
  * [49406-форум](https://forum.netstalking.ru) - netstalking forum about all the areas.
    * [Музей](http://museum.netstalking.ru) - Museum
+   * [Форум](http://museum.netstalking.ru) - forum with findings, guides and just communication
    * [49406](https://t.me/runetstalking) - channel
    * <https://t.me/runschat> - chat
+   * [Discord](https://netstalking.ru/discord.html) - discord channel
 
  * [Нетсталкинг на spaces](https://spcs.me/soo/netstalking/) - old thematic site on the former spaces.ru
 
@@ -205,6 +212,8 @@ What is **outside teams and projects** (their content is in the relevant section
  * [Netstalking Godnota](https://t.me/netstalking_godnota) - The archive of all any useful and interesting things from the Confluence Point collection site has internal subchannels for different directions and topics.
 
  * [|_C@m$_|](https://t.me/ccaammss) - unusual shots from surveillance cameras
+
+ * [E:/cam_stalk](https://t.me/cam_stalk) - similar to "Endless Wandering on Cameras"
 
  * [Горизонт Событий](https://t.me/darknet_prison) - The most active and voluminous archive of fresh sites from the Tor with descriptions and analysis.
 
