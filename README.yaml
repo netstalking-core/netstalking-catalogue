@@ -230,11 +230,33 @@ content:
                 description:
                   ru: проект по архивации популярнейшего бесплатного хостинга Народ.ру, постоянный постинг сайтов и описаний. 
                   en: archiving project of the popular free hosting Narod.ru, permanent posting of sites and descriptions.
-              - name: Sitecity.RU randomscan
-                link: https://t.me/SiteCityRU_randomscan
-                description:
-                  ru: случайный сайт и его скриншот с более позднего бесплатного хостинга sitecity.ru
-                  en: random sites and their screenshots from newer free hosting sitecity.ru
+              - name: Случайный сайт и его скриншот с бесплатных хостингов
+                links:
+                  - name: Sitecity.RU randomscan
+                    link: https://t.me/SiteCityRU_randomscan
+                    description:
+                      ru: случайный сайт и его скриншот с более позднего бесплатного хостинга sitecity.ru
+                      en: random sites and their screenshots from newer free hosting sitecity.ru
+                  - name: Ucoz.ru randomscan
+                    link: https://t.me/ucozru_randomscan
+                    description:
+                      ru: ucoz.ru
+                      en: ucoz.ru
+                  - name: Borda.ru randomscan
+                    link: https://t.me/bordaru_randomscan
+                    description:
+                      ru: borda.ru
+                      en: borda.ru
+                  - name: Fatal.ru randomscan
+                    link: https://t.me/fatalru_randomscan
+                    description:
+                      ru: fatal.ru
+                      en: fatal.ru
+                  - name: CHAT.RU
+                    link: https://t.me/ChatRU_randomscan
+                    description:
+                      ru: chat.ru
+                      en: chat.ru
               - name: CCTV vision
                 link: https://t.me/cctv_vision
                 description:
@@ -272,6 +294,11 @@ content:
                       ru: Старая версия
                       en: Old version
                     link: https://t.me/joinchat/AAAAAFAj36SRunHF_jrnfg
+              - name: Radiostalking
+                link: https://t.me/Radiostalking_j45
+                description:
+                  ru: веб-радиостанции
+                  en: web radio stations
               - name: Netstalking Ultimate Links Spreading Bot
                 link: https://t.me/netstalking_links_bot
                 description:
@@ -310,11 +337,6 @@ content:
               - link: https://github.com/netstalking-core/awesome-randomizers
       communities:
         items:
-          - name: "@netstalking"
-            link: https://t.me/netstalking
-            description:
-              ru: Точка Сбора, центральная площадка для общения по тематике.
-              en: Точка Сбора, central community for thematic talks
           - name: Network Neighborhood
             link: https://t.me/netstalking_networks
             description:
@@ -339,8 +361,13 @@ content:
               - name: Музей
                 link: http://museum.netstalking.ru
                 description:
-                  ru: Музей находок
+                  ru: музей старых сайтов интересных проектов
                   en: Museum
+              - name: Форум
+                link: http://museum.netstalking.ru
+                description:
+                  ru: форум с находками, гайдами и просто общением
+                  en: forum with findings, guides and just communication
               - name: 49406
                 link: https://t.me/runetstalking
                 description:
@@ -350,6 +377,11 @@ content:
                 description:
                   ru: чат
                   en: chat
+              - name: Discord
+                link: https://netstalking.ru/discord.html
+                description:
+                  ru: дискорд канал
+                  en: discord channel
           - name: Нетсталкинг на spaces
             link: https://spcs.me/soo/netstalking/
             description:
@@ -555,6 +587,11 @@ content:
             description:
               ru: необычные скриншоты с камер наблюдения.
               en: unusual shots from surveillance cameras
+          - name: E:/cam_stalk
+            link: https://t.me/cam_stalk
+            description:
+              ru: аналогично "Бесконечные блуждания по камерам"
+              en: similar to "Endless Wandering on Cameras"
           - name: Горизонт Событий
             link: https://t.me/darknet_prison
             description:
