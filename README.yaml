@@ -727,22 +727,22 @@ content:
             description:
               ru: Здесь вы найдёте контент по искусству.
               en: Here you can find content about different arts.
-           - name: Geography Cyberspace
+          - name: Geography Cyberspace
             link: https://t.me/netstalky
             description:
               ru: Информация о географии киберпространства.
               en: Info about cyberspace geography.
-           - name: WebCamWatcher
+          - name: WebCamWatcher
             link: https://t.me/WebCamWatcher
             description:
               ru: Распознавание животных на снимках с открытых камер германских и африканских заповедников.
               en: recognition of animals in pictures from open cameras of Germany and Africa wildlife parks.
-           - name: WCW.Boats
+          - name: WCW.Boats
             link: https://t.me/wcw_boats
             description:
               ru: Скриншоты с лодками и кораблями на вебкамерах с рек России.
               en: Screenshots with boats from the rivers of Russia.
-           - name: Found On The Internet
+          - name: Found On The Internet
             link: https://t.me/lwifoti
             description:
               ru: Сборник необычных сайтов.
