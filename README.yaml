@@ -321,7 +321,7 @@ content:
                 description:
                   ru: Помощник OSINT. Каталог техник и ресурсов.
                   en: Assistant in OSINT. Prompts techniques and resources.
-              - name: [NSG Asleep] Twonky
+              - name: "[NSG Asleep] Twonky"
                 link: https://t.me/tw0nky
                 description:
                   ru: Изображения из случайных открытых серверов Twonkymedia.
