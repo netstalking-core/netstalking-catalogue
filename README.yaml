@@ -100,11 +100,11 @@ content:
         link: https://t.me/netstalking
         description:
           ru: Вход в Точку Сбора, центральную конфу по нетсталкингу.
-          en: Entrypoint to Точка Сбора, central netstalking community
+          en: Entrypoint to Точка Сбора, central netstalking community.
       - name: Каталог
         description:
-          ru: "[x] Вы находитесь здесь"
-          en: "[x] You are here"
+          ru: "[x] Вы находитесь здесь."
+          en: "[x] You are here."
       - name: "@netstalking_bulletin"
         link: https://t.me/netstalking_bulletin
         description:
@@ -133,13 +133,13 @@ content:
           - name: Network neighborhood
             link: https://netwhood.online/
             description:
-              ru: мануалы и инфа по сетевым технологиям, включая оверлейные и альтернативные сети
-              en: manuals and information about network technologies, including overlay and alternative networks
+              ru: мануалы и инфа по сетевым технологиям, включая оверлейные и альтернативные сети.
+              en: manuals and information about network technologies, including overlay and alternative networks.
             links:
               - name: "@netstalking_networks"
                 description:
-                  ru: Чат проекта
-                  en: Project chat
+                  ru: Чат проекта.
+                  en: Project chat.
                 link: https://t.me/netstalking_networks
         children:  
           tg_channels:
@@ -193,8 +193,8 @@ content:
           - name: Camshift
             link: https://t.me/camshift
             description:
-              ru: выкладывают новый софт для работы с камерами
-              en: publish new software for working with cameras
+              ru: выкладывают новый софт для работы с камерами.
+              en: publish new software for working with cameras.
         children:
           oss:
             items:
@@ -206,7 +206,7 @@ content:
                 links:
                   - name: V for...
                     description:
-                      ru: Блог автора
+                      ru: Блог автора.
                       en: Author blog
                     link: https://t.me/v_for
               - name: pantyusha
@@ -235,13 +235,18 @@ content:
                   - name: Sitecity.RU randomscan
                     link: https://t.me/SiteCityRU_randomscan
                     description:
-                      ru: случайный сайт и его скриншот с более позднего бесплатного хостинга sitecity.ru
-                      en: random sites and their screenshots from newer free hosting sitecity.ru
+                      ru: хостинг sitecity.ru
+                      en: hosting sitecity.ru
                   - name: Ucoz.ru randomscan
                     link: https://t.me/ucozru_randomscan
                     description:
                       ru: ucoz.ru
                       en: ucoz.ru
+                  - name: neocities.org Bot
+                    link: https://t.me/neocities_bot
+                    description:
+                      ru: neocities.org
+                      en: neocities.org
                   - name: Borda.ru randomscan
                     link: https://t.me/bordaru_randomscan
                     description:
@@ -257,11 +262,16 @@ content:
                     description:
                       ru: chat.ru
                       en: chat.ru
+                  - name: Webhost.ru
+                    link: https://t.me/webhost_archive
+                    description:
+                      ru: webhost.ru
+                      en: webhost.ru
               - name: CCTV vision
                 link: https://t.me/cctv_vision
                 description:
-                  ru: Снапшоты с камер, идексированных поисковиком Shodan
-                  en: Snapshots from cameras indexed by Shodan search engine
+                  ru: Снапшоты с камер, идексированных поисковиком Shodan.
+                  en: Snapshots from cameras indexed by Shodan search engine.
               - name: Сканбот
                 description: 
                   ru: рандомскан портов
@@ -283,6 +293,8 @@ content:
                 description:
                   ru: Второй канал со случайными изображениями с FTP-серверов.
                   en: Second random FTP images channel
+              - name: Радиопереговоры Спецслужб
+                link: https://t.me/dpskan
               - name: RandomShots
                 link: https://t.me/randscrshot
                 description:
@@ -291,8 +303,8 @@ content:
                 links:
                   - name: 🛰 Lightshot Scanner
                     description:
-                      ru: Старая версия
-                      en: Old version
+                      ru: Старая версия.
+                      en: Old version.
                     link: https://t.me/joinchat/AAAAAFAj36SRunHF_jrnfg
               - name: Radiostalking
                 link: https://t.me/Radiostalking_j45
@@ -308,24 +320,34 @@ content:
                 link: https://t.me/HowToFind_bot
                 description:
                   ru: Помощник OSINT. Каталог техник и ресурсов.
-                  en: Assistant in OSINT. Prompts techniques and resources
+                  en: Assistant in OSINT. Prompts techniques and resources.
+              - name: "[NSG Asleep] Twonky"
+                link: https://t.me/tw0nky
+                description:
+                  ru: Изображения из случайных открытых серверов Twonkymedia.
+                  en: Images from random open Twonkymedia servers.
+              - name: Spy Camera (CCTV)
+                link: https://t.me/camera_spy
+                description:
+                  ru: Случайные камеры.
+                  en: Random cams.
           search_engines:
             items:
               - name: Telegago
                 link: http://bit.ly/Telegago
                 description:
                   ru: поисковик по Telegram, основанный на Google Custom Search Engine. Разработан и поддерживается [PCL](https://github.com/TelegramPCL).
-                  en: Telegram search engine based on Google Custom Search Engine. Developed and maintained by [PCL](https://github.com/TelegramPCL)
+                  en: Telegram search engine based on Google Custom Search Engine. Developed and maintained by [PCL](https://github.com/TelegramPCL).
               - name: Telegcrack
                 link: https://telegcrack.com/
                 description:
                   ru: поисковик по Telegra.ph
-                  en: Telegra.ph search engine
+                  en: Telegra.ph search engine.
               - name: T E X T F I L E S
                 link: http://textfiles.com/directory.html
                 description:
-                  ru: поиск по архивам BBS и сами архивы
-                  en: for searching BBS archives (and downloading them)
+                  ru: поиск по архивам BBS и сами архивы.
+                  en: for searching BBS archives (and downloading them).
               - description:
                   ru: Подборки специализированных поисковиков
                   en: Specialized search engines compilations
@@ -345,8 +367,8 @@ content:
           - name: Asleep Cams
             link: https://t.me/asleep_cg
             description:
-              ru: "Всё о камерах: поиск, просмотр, разработка софта"
-              en: "Everything about cameras: searching, viewing, software development"
+              ru: "Всё о камерах: поиск, просмотр, разработка софта."
+              en: "Everything about cameras: searching, viewing, software development."
           - name: Мусорщики Web 1.0
             link: https://t.me/web10_scavengers
             description:
@@ -361,27 +383,27 @@ content:
               - name: Музей
                 link: http://museum.netstalking.ru
                 description:
-                  ru: музей старых сайтов интересных проектов
-                  en: Museum
+                  ru: музей старых сайтов интересных проектов.
+                  en: Museum.
               - name: Форум
                 link: http://museum.netstalking.ru
                 description:
-                  ru: форум с находками, гайдами и просто общением
-                  en: forum with findings, guides and just communication
+                  ru: форум с находками, гайдами и просто общением.
+                  en: forum with findings, guides and just communication.
               - name: 49406
                 link: https://t.me/runetstalking
                 description:
-                  ru: канал
-                  en: channel
+                  ru: канал.
+                  en: channel.
               - link: https://t.me/runschat
                 description:
-                  ru: чат
-                  en: chat
+                  ru: чат.
+                  en: chat.
               - name: Discord
                 link: https://netstalking.ru/discord.html
                 description:
-                  ru: дискорд канал
-                  en: discord channel
+                  ru: дискорд канал.
+                  en: discord channel.
           - name: Нетсталкинг на spaces
             link: https://spcs.me/soo/netstalking/
             description:
@@ -390,8 +412,8 @@ content:
           - name: R4D4N
             link: https://t.me/r4d4n
             description:
-              ru: Радиосталкинг
-              en: Radiostalking
+              ru: Радиосталкинг.
+              en: Radiostalking.
           - name: Linux Stalkers
             link: https://t.me/linuxstalkers
             description:
@@ -406,13 +428,13 @@ content:
               - name: Netstalking is our life
                 link: https://t.me/netstalkinglife
                 description:
-                  ru: Канал
-                  en: Channel
+                  ru: Канал.
+                  en: Channel.
           - name: Netstalking - Internet Exploration
             link: https://t.me/internetexpl0rati0n
             description:
-              ru: Англоязычное сообщество исследователей
-              en: English-speaking community of researchers
+              ru: Англоязычное сообщество исследователей.
+              en: English-speaking community of researchers.
             links:
               - name: Darknet Archive
                 link: https://t.me/Darknet_planet
@@ -424,14 +446,24 @@ content:
               - name: Digital Eyes
                 link: https://t.me/Netstalking_Eyes
                 description:
-                  ru: Снимки с камер 
-                  en: Pictures from cameras
+                  ru: Снимки с камер.
+                  en: Pictures from cameras.
               - name: DIgital Eyes (group)
                 link: https://t.me/Netstalkingeyes
               - name: Netstalking- Gopherspace Exploration
                 link: https://t.me/Netstalking_Gopher
               - name: Netstalking- Telnet, BBS & SSH Universe
                 link: https://t.me/telnetkey
+              - name: Radiostalking
+                link: https://t.me/Radiostalking_j45
+                description:
+                  ru: Онлайн-радиостанции.
+                  en: Online radio stations.
+              - name: Webscraping - OpenNIC
+                link: https://t.me/opennic2
+                description:
+                  ru: Сайты с необычными OpenNIC-доменами.
+                  en: Sites with strange OpenNIC domains.
           - description:
               ru: Околотематическое общение
               en: Near-thematic low-moderated chats
@@ -439,18 +471,18 @@ content:
             - name: Точка Выхода
               link: https://t.me/joinchat/B17SF07L7phzDcqUIaeQ7w
               description:
-                ru: Дочерняя конференция Точки Сбора для свободного общения
-                en: Child conference of Точка Сбора for free communication
+                ru: Дочерняя конференция Точки Сбора для свободного общения.
+                en: Child conference of Точка Сбора for free communication.
             - name: Анимежабы и Сетевые Искатели
               link: https://t.me/network_explorers
               description:
                 ru: Конференция для свободного обмена информацией и общения.
-                en: Conference for free information sharing and free communication
+                en: Conference for free information sharing and free communication.
             - name: Альтернативная Точка Выхода
               link: https://t.me/joinchat/GaxQCEVlKw5sSBX9u_pohw
               description: 
-                ru: Площадка для нетематического общения
-                en: Platform for non-topic communication
+                ru: Площадка для нетематического общения.
+                en: Platform for non-topic communication.
       teams:
         items:
           - name: Asleep Netstalking Squad
@@ -463,12 +495,12 @@ content:
                 link: https://t.me/asleep_cams
                 description:
                   ru: канал свеженасканенных камер в Telegram. 
-                  en: Telegram channel with freshly scanned cameras
+                  en: Telegram channel with freshly scanned cameras.
               - name: "@asleep_cg"
                 link: https://t.me/asleep_cg
                 description:
-                  ru: чат для разбора, обсуждения и разработки средств наскана камер
-                  en: chat for examining cameras, discussing and developing scanning tools
+                  ru: чат для разбора, обсуждения и разработки средств наскана камер.
+                  en: chat for examining cameras, discussing and developing scanning tools.
               - name: Asleep Cams Aésthetic
                 link: https://t.me/asleepshit
                 description:
@@ -477,23 +509,18 @@ content:
               - name: Dicrurus Adsimilis
                 link: https://t.me/Dicrurus
                 description:
-                  ru: Контактное лицо в ТГ
-                  en: Person of contact in Telegram
+                  ru: Контактное лицо в ТГ.
+                  en: Person of contact in Telegram.
               - name: Ordo Asleep
                 link: http://ordo-asleep.online
                 description:
-                  ru: Сайт
-                  en: Website
+                  ru: Сайт.
+                  en: Website.
           - name: Тёмная Тайга
-            link: https://vk.com/clubonionrus
+            link: https://vk.com/taiga_project
             description:
-              ru: выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера
-              en: posting Tor, ZeroNet resources, unusual websites, points on maps, FTP servers
-            links:
-              - link: https://t.me/taiga_land
-                description:
-                  ru: Чат
-                  en: Chat
+              ru: выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера.
+              en: posting Tor, ZeroNet resources, unusual websites, points on maps, FTP servers.
           - name: Darksearch
             link: https://vk.com/darksearch
             description:
@@ -510,19 +537,19 @@ content:
           - name: H.I.D.D.E.N
             link: https://vk.com/stalkers_it
             description:
-              ru: камеры и нетсталкинг
-              en: cameras & netstalking
+              ru: камеры и нетсталкинг.
+              en: cameras & netstalking.
             links:
               - name: Канал результатов работы H.I.D.D.E.N
                 link: https://t.me/group_hidden
                 description:
-                  ru: дубль в телеграме
-                  en: duplicate in telegram
+                  ru: дубль в телеграме.
+                  en: duplicate in telegram.
               - name: "@v0id3r"
                 link: https://t.me/v0id3r
                 description:
-                  ru: Контактное лицо в телеграме
-                  en: Person of contact in Telegram
+                  ru: Контактное лицо в телеграме.
+                  en: Person of contact in Telegram.
           - name: BlackNode Research
             link: https://t.me/blacknode_research
             description:
@@ -532,22 +559,22 @@ content:
               - name: "@blacknode_researcher"
                 link: https://t.me/blacknode_researcher
                 description:
-                  ru: Контактное лицо в ТГ
-                  en: Person of contact in Telegram
+                  ru: Контактное лицо в ТГ.
+                  en: Person of contact in Telegram.
           - name: unknwn404
             link: https://t.me/unknwn404_official
             description:
-              ru: небольшая нетсталкерская команда unknwn404, выкладывают ссылки на необычные сайты из Tor и клирнета
-              en: small netstalking team, they post unusual websites from Tor and clearnet
+              ru: небольшая нетсталкерская команда unknwn404, выкладывают ссылки на необычные сайты из Tor и клирнета.
+              en: small netstalking team, they post unusual websites from Tor and clearnet.
             links:
               - link: https://t.me/unknwn404_public_group
                 description:
-                  ru: Чат
-                  en: Chat
+                  ru: Чат.
+                  en: Chat.
           - name: Консорциум нетсталкерской сети
             link: https://t.me/deep_web_10
             description:
-              ru: Разработка стандартов распределённой сети поиска, анализа и обмена находками
+              ru: Разработка стандартов распределённой сети поиска, анализа и обмена находками.
               en: Developing standards of the distributed network for searching, analyzing and sharing finds.
         children:
           projects:
@@ -582,16 +609,21 @@ content:
             description:
               ru: архив всех сколь-нибудь полезных и интересных вещей из конфы "Точка Сбора", обладает внутренними подканалами для разных направлений и тем.
               en: The archive of all any useful and interesting things from the Confluence Point collection site has internal subchannels for different directions and topics.
+          - name: Randomchaos
+            link: https://t.me/randomaesthetic
+            description:
+              ru: Сайты как искусство или не особо.
+              en: Sites as art (or nope).
           - name: "|_C@m$_|" 
             link: https://t.me/ccaammss
             description:
               ru: необычные скриншоты с камер наблюдения.
-              en: unusual shots from surveillance cameras
+              en: unusual shots from surveillance cameras.
           - name: E:/cam_stalk
             link: https://t.me/cam_stalk
             description:
-              ru: аналогично "Бесконечные блуждания по камерам"
-              en: similar to "Endless Wandering on Cameras"
+              ru: аналогично "Бесконечные блуждания по камерам".
+              en: similar to "Endless Wandering on Cameras".
           - name: Горизонт Событий
             link: https://t.me/darknet_prison
             description:
@@ -602,16 +634,21 @@ content:
             description:
               ru: сервера исследовательских центров и университетов, найденные рандомсканом. Прилагаются описания направлений исследований. Цель проекта - собрать в одном месте источники данных и результатов, которые пригодятся другим исследователям.
               en: servers of research centers and universities found randomly. Descriptions of research areas are included. The goal of the project is to collect in one place sources of data and results that are useful to other researchers.
+          - name: «Здесь нужны старые браузеры»
+            link: https://t.me/DoYouHaveTheOldestBrowser
+            description:
+              ru: Gopher и иные устаревшие технологии...
+              en: Gopher and other outdated technologies...
           - name: Brainmup
             link: https://t.me/brainmup
             description:
-              ru: избранное из парсинга майндкарт разных сервисов
-              en: selected mind maps from different services
+              ru: избранное из парсинга майндкарт разных сервисов.
+              en: selected mind maps from different services.
           - name: "@DarkGodnota"
             link: https://t.me/DarkGodnota
             description:
-              ru: вопреки названию, никаких "тёмных" сайтов. Хорошо разобранные интересные скрытосервисы (сайты Tor)
-              en: contrary to the name, no "dark" sites. Well-chosen interesting hidden services (Tor sites)
+              ru: вопреки названию, никаких "тёмных" сайтов. Хорошо разобранные интересные скрытосервисы (сайты Tor).
+              en: contrary to the name, no "dark" sites. Well-chosen interesting hidden services (Tor sites).
           - name: Deep Web Page
             link: https://t.me/deepwebpage
             description:
@@ -635,21 +672,26 @@ content:
             description:
               ru: образцы веба 1.0
               en: samples of Web 1.0
+          - name: Zer0map
+            link: https://t.me/zer0map
+            description: 
+              ru: Контент из сети ZeroNet.
+              en: Content from ZeroNet.
           - name: Net Art Aesthetics
             link: https://vk.com/net_art
             description: 
-              ru: сетевое искусство в различных проявлениях
-              en: net arts in various forms
+              ru: сетевое искусство в различных проявлениях.
+              en: net arts in various forms.
           - name: Street View Aesthetics
             link: https://vk.com/street_view
             description:
-              ru: интересные места с режима "уличного обзора" онлайновых спутниковых карт
-              en: interesting places from "street view" mode of satellite maps
+              ru: интересные места с режима "уличного обзора" онлайновых спутниковых карт.
+              en: interesting places from "street view" mode of satellite maps.
           - name: "@netstalking_webcameras"
             link: https://t.me/netstalking_webcameras
             description:
-              ru: около миллиона скриншотов камер с ip-адресом и логином-паролем на момент обнаружения
-              en: around 1M of cameras screenshots with IP address and credentials at the time of discovery
+              ru: около миллиона скриншотов камер с ip-адресом и логином-паролем на момент обнаружения.
+              en: around 1M of cameras screenshots with IP address and credentials at the time of discovery.
           - name: TeleStalk
             link: https://t.me/telestalk
             description:
@@ -658,13 +700,8 @@ content:
           - name: /home/user/netstalking/screenshots
             link: https://t.me/netstalking_screenshots
             description:
-              ru: Канал со скриншотами веб-страниц
-              en: Channel with screenshots of random web pages
-          - name: Webhost.ru
-            link: https://t.me/webhost_archive
-            description:
-              ru: Автопостинг сайтов с сервиса Webhost.ru
-              en: Autoposting sites from Webhost.ru service
+              ru: Канал со скриншотами веб-страниц.
+              en: Channel with screenshots of random web pages.
           - name: Сайты одного сервера reg.ru
             link: https://t.me/RegRuLeaks
             description:
@@ -673,13 +710,13 @@ content:
           - name: /home/user/netstalking/onions
             link: https://t.me/onionnetstalk
             description:
-              ru: Скриншоты сайтов .onion (Tor)
-              en: Screenshots of .onion websites
+              ru: Скриншоты сайтов .onion (Tor).
+              en: Screenshots of .onion websites.
           - name: Onion Links
             link: https://t.me/RussianOnionLinks
             description:
-              ru: Здесь вы можете найти полезные даркнет ссылки. Кидайте свои ссылки в предложку. Записи периодически обновляются
-              en: Here you can find useful darknet links. Throw your links in the offer. Records are periodically updated.
+              ru: Здесь вы можете найти полезные даркнет ссылки. Кидайте свои ссылки в предложку. Записи периодически обновляются.
+              en: Here you can find useful darknet links. Throw your links in the offer. Records are periodically updated..
           - name: Свалка нетсталкерских находок
             link: https://t.me/finds_dump_netstalking
             description:
@@ -688,8 +725,28 @@ content:
           - name: ARTSTALKING
             link: https://t.me/ARTSTALLING
             description:
-              ru: Здесь вы найдёте контент по искусству
-              en: Here you can find content about different arts
+              ru: Здесь вы найдёте контент по искусству.
+              en: Here you can find content about different arts.
+          - name: Geography Cyberspace
+            link: https://t.me/netstalky
+            description:
+              ru: Информация о географии киберпространства.
+              en: Info about cyberspace geography.
+          - name: WebCamWatcher
+            link: https://t.me/WebCamWatcher
+            description:
+              ru: Распознавание животных на снимках с открытых камер германских и африканских заповедников.
+              en: recognition of animals in pictures from open cameras of Germany and Africa wildlife parks.
+          - name: WCW.Boats
+            link: https://t.me/wcw_boats
+            description:
+              ru: Скриншоты с лодками и кораблями на вебкамерах с рек России.
+              en: Screenshots with boats from the rivers of Russia.
+          - name: Found On The Internet
+            link: https://t.me/lwifoti
+            description:
+              ru: Сборник необычных сайтов.
+              en: Strange sites.
       other:
         items:
           - name: "@DEFCON7495"
@@ -701,8 +758,8 @@ content:
               - name: "@DC7495"
                 link: https://t.me/DC7495
                 description:
-                  ru: чат
-                  en: chat
+                  ru: чат.
+                  en: chat.
           - link: https://vas3k.ru
             description:
               ru: OSINT-исследования и отменные поисковые челленджи.
@@ -744,23 +801,18 @@ content:
             links:
               - link: https://t.me/l0cation_u_open
                 description:
-                  ru: Открытый чат в ТГ
-                  en: Open chat in Telegram
+                  ru: Открытый чат в ТГ.
+                  en: Open chat in Telegram.
               - link: https://t.me/antbzprdl
                 name: "@antbzprdl"
                 description:
-                  ru: Контактное лицо в тг
-                  en: Person of contact in Telegram
+                  ru: Контактное лицо в тг.
+                  en: Person of contact in Telegram.
           - name: "@in51d3"
             link: https://t.me/in51d3
             description:
               ru: Инфобез, сети, осинт, IoT и прочие интересности от @N3M351DA.
               en: Infosec, networks, OSINT, IoT and other interesting stuff by @N3M351DA.
-          - name: WebCamWatcher
-            link: https://t.me/WebCamWatcher
-            description:
-              ru: распознавание животных на снимках с открытых камер парков дикой природы.
-              en: recognition of animals in pictures from open cameras of wildlife parks.
           - name: Technocrat UA
             link: https://t.me/technocratua
             description:
@@ -769,10 +821,10 @@ content:
           - name: Приёмы при работе с ПК, чат
             link: https://t.me/assistpcchat
             description:
-              ru: Помощь пользователям электроники
-              en: Help for PC users
+              ru: Помощь пользователям электроники.
+              en: Help for PC users.
           - name: Нетсталкерские Мемы
             link: https://t.me/netstalking_memes
             description:
-              ru: Локальные мемы
-              en: Russian netstalking inside memes
+              ru: Локальные мемы.
+              en: Russian netstalking inside memes.
