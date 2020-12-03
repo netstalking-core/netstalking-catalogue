@@ -21,9 +21,9 @@ This catalog is a roadmap for the foreseeable list of network sites useful for a
 
 # Core
 
- * [@netstalking](https://t.me/netstalking) - Entrypoint to Точка Сбора, central netstalking community
+ * [@netstalking](https://t.me/netstalking) - Entrypoint to Точка Сбора, central netstalking community.
 
- * Каталог - [x] You are here
+ * Каталог - [x] You are here.
 
  * [@netstalking_bulletin](https://t.me/netstalking_bulletin) - Bulletin with news and announcements: new projects, participants requests, significant results (for discussing in Точка Сбора)
 
@@ -37,8 +37,8 @@ This catalog is a roadmap for the foreseeable list of network sites useful for a
 
  * [ultimate-netstalking-guide](https://github.com/pantyusha/ultimate-netstalking-guide/) - advices and links to search engines and file shares.
 
- * [Network neighborhood](https://netwhood.online/) - manuals and information about network technologies, including overlay and alternative networks
-   * [@netstalking_networks](https://t.me/netstalking_networks) - Project chat
+ * [Network neighborhood](https://netwhood.online/) - manuals and information about network technologies, including overlay and alternative networks.
+   * [@netstalking_networks](https://t.me/netstalking_networks) - Project chat.
 
 ### TG channels
 
@@ -65,7 +65,7 @@ Thematic and near-thematic videos and streams
 
  * [Хидден-пак](https://yadi.sk/d/R0VdqI_93JyssH) - all the necessary software that is compiled and used by the H.I.D.D.E.N group - and a set of instructions and links for beginners from them.
 
- * [Camshift](https://t.me/camshift) - publish new software for working with cameras
+ * [Camshift](https://t.me/camshift) - publish new software for working with cameras.
 
 ### open-source software
 
@@ -85,13 +85,15 @@ Thematic and near-thematic videos and streams
  * [Netstalking Narod](https://t.me/netstalking_narod) - archiving project of the popular free hosting Narod.ru, permanent posting of sites and descriptions.
 
  * Случайный сайт и его скриншот с бесплатных хостингов
-   * [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - random sites and their screenshots from newer free hosting sitecity.ru
+   * [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - hosting sitecity.ru
    * [Ucoz.ru randomscan](https://t.me/ucozru_randomscan) - ucoz.ru
+   * [neocities.org Bot](https://t.me/neocities_bot) - neocities.org
    * [Borda.ru randomscan](https://t.me/bordaru_randomscan) - borda.ru
    * [Fatal.ru randomscan](https://t.me/fatalru_randomscan) - fatal.ru
    * [CHAT.RU](https://t.me/ChatRU_randomscan) - chat.ru
+   * [Webhost.ru](https://t.me/webhost_archive) - webhost.ru
 
- * [CCTV vision](https://t.me/cctv_vision) - Snapshots from cameras indexed by Shodan search engine
+ * [CCTV vision](https://t.me/cctv_vision) - Snapshots from cameras indexed by Shodan search engine.
 
  * Сканбот - random scanning ports
    * [HTTP](https://t.me/gohquooFee3duaNaeNuthushoh8di2)
@@ -102,22 +104,28 @@ Thematic and near-thematic videos and streams
 
  * [Random FTP Image 2](https://t.me/netstalking_ftp2) - Second random FTP images channel
 
+ * [Радиопереговоры Спецслужб](https://t.me/dpskan)
+
  * [RandomShots](https://t.me/randscrshot) - random images from screenshot service prnt.sc
-   * [🛰 Lightshot Scanner](https://t.me/joinchat/AAAAAFAj36SRunHF_jrnfg) - Old version
+   * [🛰 Lightshot Scanner](https://t.me/joinchat/AAAAAFAj36SRunHF_jrnfg) - Old version.
 
  * [Radiostalking](https://t.me/Radiostalking_j45) - web radio stations
 
  * [Netstalking Ultimate Links Spreading Bot](https://t.me/netstalking_links_bot) - Is an interactive Catalogue, based on this one.
 
- * [HowToFind Bot](https://t.me/HowToFind_bot) - Assistant in OSINT. Prompts techniques and resources
+ * [HowToFind Bot](https://t.me/HowToFind_bot) - Assistant in OSINT. Prompts techniques and resources.
+
+ * [[NSG Asleep] Twonky](https://t.me/tw0nky) - Images from random open Twonkymedia servers.
+
+ * [Spy Camera (CCTV)](https://t.me/camera_spy) - Random cams.
 
 ### Search engines
 
- * [Telegago](http://bit.ly/Telegago) - Telegram search engine based on Google Custom Search Engine. Developed and maintained by [PCL](https://github.com/TelegramPCL)
+ * [Telegago](http://bit.ly/Telegago) - Telegram search engine based on Google Custom Search Engine. Developed and maintained by [PCL](https://github.com/TelegramPCL).
 
- * [Telegcrack](https://telegcrack.com/) - Telegra.ph search engine
+ * [Telegcrack](https://telegcrack.com/) - Telegra.ph search engine.
 
- * [T E X T F I L E S](http://textfiles.com/directory.html) - for searching BBS archives (and downloading them)
+ * [T E X T F I L E S](http://textfiles.com/directory.html) - for searching BBS archives (and downloading them).
 
  * Specialized search engines compilations
    * <http://hrazvedka.ru/category/poisk>
@@ -131,66 +139,67 @@ Thematic and near-thematic videos and streams
 
  * [Network Neighborhood](https://t.me/netstalking_networks) - network neighbors. Exploring different networks - overlay, P2P, amateur VPN. Actively participate in Yggdrasil.
 
- * [Asleep Cams](https://t.me/asleep_cg) - Everything about cameras: searching, viewing, software development
+ * [Asleep Cams](https://t.me/asleep_cg) - Everything about cameras: searching, viewing, software development.
 
  * [Мусорщики Web 1.0](https://t.me/web10_scavengers) - a project to parse and preserve the heritage of the naive early web. Shelter for nostalgic and lovers of aesthetics of handicraft design.
 
  * [49406-форум](https://forum.netstalking.ru) - netstalking forum about all the areas.
-   * [Музей](http://museum.netstalking.ru) - Museum
-   * [Форум](http://museum.netstalking.ru) - forum with findings, guides and just communication
-   * [49406](https://t.me/runetstalking) - channel
-   * <https://t.me/runschat> - chat
-   * [Discord](https://netstalking.ru/discord.html) - discord channel
+   * [Музей](http://museum.netstalking.ru) - Museum.
+   * [Форум](http://museum.netstalking.ru) - forum with findings, guides and just communication.
+   * [49406](https://t.me/runetstalking) - channel.
+   * <https://t.me/runschat> - chat.
+   * [Discord](https://netstalking.ru/discord.html) - discord channel.
 
  * [Нетсталкинг на spaces](https://spcs.me/soo/netstalking/) - old thematic site on the former spaces.ru
 
- * [R4D4N](https://t.me/r4d4n) - Radiostalking
+ * [R4D4N](https://t.me/r4d4n) - Radiostalking.
 
  * [Linux Stalkers](https://t.me/linuxstalkers) - Discussions and talks around Linux systems.
 
  * [DD-Netstalking](https://t.me/joinchat/FjxW7UwGQXC5p8I6kO2UjA) - Chat about netstalking and everything related.
-   * [Netstalking is our life](https://t.me/netstalkinglife) - Channel
+   * [Netstalking is our life](https://t.me/netstalkinglife) - Channel.
 
- * [Netstalking - Internet Exploration](https://t.me/internetexpl0rati0n) - English-speaking community of researchers
+ * [Netstalking - Internet Exploration](https://t.me/internetexpl0rati0n) - English-speaking community of researchers.
    * [Darknet Archive](https://t.me/Darknet_planet) - Interesting Darknet sites - Darknet for everyone
    * [The dark corner of the surface](https://t.me/dark_surface)
-   * [Digital Eyes](https://t.me/Netstalking_Eyes) - Pictures from cameras
+   * [Digital Eyes](https://t.me/Netstalking_Eyes) - Pictures from cameras.
    * [DIgital Eyes (group)](https://t.me/Netstalkingeyes)
    * [Netstalking- Gopherspace Exploration](https://t.me/Netstalking_Gopher)
    * [Netstalking- Telnet, BBS & SSH Universe](https://t.me/telnetkey)
+   * [Radiostalking](https://t.me/Radiostalking_j45) - Online radio stations.
+   * [Webscraping - OpenNIC](https://t.me/opennic2) - Sites with strange OpenNIC domains.
 
  * Near-thematic low-moderated chats
-   * [Точка Выхода](https://t.me/joinchat/B17SF07L7phzDcqUIaeQ7w) - Child conference of Точка Сбора for free communication
-   * [Анимежабы и Сетевые Искатели](https://t.me/network_explorers) - Conference for free information sharing and free communication
-   * [Альтернативная Точка Выхода](https://t.me/joinchat/GaxQCEVlKw5sSBX9u_pohw) - Platform for non-topic communication
+   * [Точка Выхода](https://t.me/joinchat/B17SF07L7phzDcqUIaeQ7w) - Child conference of Точка Сбора for free communication.
+   * [Анимежабы и Сетевые Искатели](https://t.me/network_explorers) - Conference for free information sharing and free communication.
+   * [Альтернативная Точка Выхода](https://t.me/joinchat/GaxQCEVlKw5sSBX9u_pohw) - Platform for non-topic communication.
 
 ## Teams
 
 Probably, you'll join one of them.
  * [Asleep Netstalking Squad](https://vk.com/asleep_net) - **cameras** and selected pictures from them. Beauty in the viewer's eyes.
-   * [Asleep_Cams](https://t.me/asleep_cams) - Telegram channel with freshly scanned cameras
-   * [@asleep_cg](https://t.me/asleep_cg) - chat for examining cameras, discussing and developing scanning tools
+   * [Asleep_Cams](https://t.me/asleep_cams) - Telegram channel with freshly scanned cameras.
+   * [@asleep_cg](https://t.me/asleep_cg) - chat for examining cameras, discussing and developing scanning tools.
    * [Asleep Cams Aésthetic](https://t.me/asleepshit) - special shots. A game of shadow, symmetry and color.
-   * [Dicrurus Adsimilis](https://t.me/Dicrurus) - Person of contact in Telegram
-   * [Ordo Asleep](http://ordo-asleep.online) - Website
+   * [Dicrurus Adsimilis](https://t.me/Dicrurus) - Person of contact in Telegram.
+   * [Ordo Asleep](http://ordo-asleep.online) - Website.
 
- * [Тёмная Тайга](https://vk.com/clubonionrus) - posting Tor, ZeroNet resources, unusual websites, points on maps, FTP servers
-   * <https://t.me/taiga_land> - Chat
+ * [Тёмная Тайга](https://vk.com/taiga_project) - posting Tor, ZeroNet resources, unusual websites, points on maps, FTP servers.
 
  * [Darksearch](https://vk.com/darksearch) - position themselves as the central team laying out the best finds. In practice, they often repost someone else’s, even without a backlink. Distributed malware in working chat, saying it is "Asleep Scanner".
    * [@darksearch_netstalking](https://t.me/darksearch_netstalking)
 
  * [Viewpoint](https://t.me/viewpoint_channel) - research of closed communities and destructive sects.
 
- * [H.I.D.D.E.N](https://vk.com/stalkers_it) - cameras & netstalking
-   * [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - duplicate in telegram
-   * [@v0id3r](https://t.me/v0id3r) - Person of contact in Telegram
+ * [H.I.D.D.E.N](https://vk.com/stalkers_it) - cameras & netstalking.
+   * [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - duplicate in telegram.
+   * [@v0id3r](https://t.me/v0id3r) - Person of contact in Telegram.
 
  * [BlackNode Research](https://t.me/blacknode_research) - neural nets researches and software development
-   * [@blacknode_researcher](https://t.me/blacknode_researcher) - Person of contact in Telegram
+   * [@blacknode_researcher](https://t.me/blacknode_researcher) - Person of contact in Telegram.
 
- * [unknwn404](https://t.me/unknwn404_official) - small netstalking team, they post unusual websites from Tor and clearnet
-   * <https://t.me/unknwn404_public_group> - Chat
+ * [unknwn404](https://t.me/unknwn404_official) - small netstalking team, they post unusual websites from Tor and clearnet.
+   * <https://t.me/unknwn404_public_group> - Chat.
 
  * [Консорциум нетсталкерской сети](https://t.me/deep_web_10) - Developing standards of the distributed network for searching, analyzing and sharing finds.
 
@@ -211,17 +220,21 @@ Non-team projects, usually focused on one narrow area of netstalking.
 What is **outside teams and projects** (their content is in the relevant sections). Processed and unprocessed results of scanning, manual search, parsing, grabbing, network analytics, etc.
  * [Netstalking Godnota](https://t.me/netstalking_godnota) - The archive of all any useful and interesting things from the Confluence Point collection site has internal subchannels for different directions and topics.
 
- * [|_C@m$_|](https://t.me/ccaammss) - unusual shots from surveillance cameras
+ * [Randomchaos](https://t.me/randomaesthetic) - Sites as art (or nope).
 
- * [E:/cam_stalk](https://t.me/cam_stalk) - similar to "Endless Wandering on Cameras"
+ * [|_C@m$_|](https://t.me/ccaammss) - unusual shots from surveillance cameras.
+
+ * [E:/cam_stalk](https://t.me/cam_stalk) - similar to "Endless Wandering on Cameras".
 
  * [Горизонт Событий](https://t.me/darknet_prison) - The most active and voluminous archive of fresh sites from the Tor with descriptions and analysis.
 
  * [Random Open Science](https://t.me/netstalking_open_science) - servers of research centers and universities found randomly. Descriptions of research areas are included. The goal of the project is to collect in one place sources of data and results that are useful to other researchers.
 
- * [Brainmup](https://t.me/brainmup) - selected mind maps from different services
+ * [«Здесь нужны старые браузеры»](https://t.me/DoYouHaveTheOldestBrowser) - Gopher and other outdated technologies...
 
- * [@DarkGodnota](https://t.me/DarkGodnota) - contrary to the name, no "dark" sites. Well-chosen interesting hidden services (Tor sites)
+ * [Brainmup](https://t.me/brainmup) - selected mind maps from different services.
+
+ * [@DarkGodnota](https://t.me/DarkGodnota) - contrary to the name, no "dark" sites. Well-chosen interesting hidden services (Tor sites).
 
  * [Deep Web Page](https://t.me/deepwebpage) - selected deepweb finds pulled from the Сканбот and other random netstalking sources used at the Точка Сбора.
 
@@ -233,33 +246,41 @@ What is **outside teams and projects** (their content is in the relevant section
 
  * <https://vk.com/web10> - samples of Web 1.0
 
- * [Net Art Aesthetics](https://vk.com/net_art) - net arts in various forms
+ * [Zer0map](https://t.me/zer0map) - Content from ZeroNet.
 
- * [Street View Aesthetics](https://vk.com/street_view) - interesting places from "street view" mode of satellite maps
+ * [Net Art Aesthetics](https://vk.com/net_art) - net arts in various forms.
 
- * [@netstalking_webcameras](https://t.me/netstalking_webcameras) - around 1M of cameras screenshots with IP address and credentials at the time of discovery
+ * [Street View Aesthetics](https://vk.com/street_view) - interesting places from "street view" mode of satellite maps.
+
+ * [@netstalking_webcameras](https://t.me/netstalking_webcameras) - around 1M of cameras screenshots with IP address and credentials at the time of discovery.
 
  * [TeleStalk](https://t.me/telestalk) - Randomly exploring Telegram searching for interesting channels/chats/bots
 
- * [/home/user/netstalking/screenshots](https://t.me/netstalking_screenshots) - Channel with screenshots of random web pages
-
- * [Webhost.ru](https://t.me/webhost_archive) - Autoposting sites from Webhost.ru service
+ * [/home/user/netstalking/screenshots](https://t.me/netstalking_screenshots) - Channel with screenshots of random web pages.
 
  * [Сайты одного сервера reg.ru](https://t.me/RegRuLeaks) - URL of sites hosted by reg.ru. Number of sites: 588,121
 
- * [/home/user/netstalking/onions](https://t.me/onionnetstalk) - Screenshots of .onion websites
+ * [/home/user/netstalking/onions](https://t.me/onionnetstalk) - Screenshots of .onion websites.
 
- * [Onion Links](https://t.me/RussianOnionLinks) - Here you can find useful darknet links. Throw your links in the offer. Records are periodically updated.
+ * [Onion Links](https://t.me/RussianOnionLinks) - Here you can find useful darknet links. Throw your links in the offer. Records are periodically updated..
 
  * [Свалка нетсталкерских находок](https://t.me/finds_dump_netstalking) - A channel for unstructured highlighting of interesting finds that were found in various conferences on netstalking topics.
 
- * [ARTSTALKING](https://t.me/ARTSTALLING) - Here you can find content about different arts
+ * [ARTSTALKING](https://t.me/ARTSTALLING) - Here you can find content about different arts.
+
+ * [Geography Cyberspace](https://t.me/netstalky) - Info about cyberspace geography.
+
+ * [WebCamWatcher](https://t.me/WebCamWatcher) - recognition of animals in pictures from open cameras of Germany and Africa wildlife parks.
+
+ * [WCW.Boats](https://t.me/wcw_boats) - Screenshots with boats from the rivers of Russia.
+
+ * [Found On The Internet](https://t.me/lwifoti) - Strange sites.
 
 ## Others
 
 Of interest to the subject, although created outside of it.
  * [@DEFCON7495](https://t.me/DEFCON7495) - Materials and videos of DEFCON community from Zelenograd.
-   * [@DC7495](https://t.me/DC7495) - chat
+   * [@DC7495](https://t.me/DC7495) - chat.
 
  * <https://vas3k.ru> - OSINT-researches and wonderful searching challenges.
 
@@ -276,16 +297,14 @@ Of interest to the subject, although created outside of it.
  * [Утечки информации](https://t.me/dataleak) - articles about data leaks, information security.
 
  * [L0cation_Undefined](https://t.me/l0cation_u) - stalking interesting objects on map services
-   * <https://t.me/l0cation_u_open> - Open chat in Telegram
-   * [@antbzprdl](https://t.me/antbzprdl) - Person of contact in Telegram
+   * <https://t.me/l0cation_u_open> - Open chat in Telegram.
+   * [@antbzprdl](https://t.me/antbzprdl) - Person of contact in Telegram.
 
  * [@in51d3](https://t.me/in51d3) - Infosec, networks, OSINT, IoT and other interesting stuff by @N3M351DA.
 
- * [WebCamWatcher](https://t.me/WebCamWatcher) - recognition of animals in pictures from open cameras of wildlife parks.
-
  * [Technocrat UA](https://t.me/technocratua) - The “Technocrat blog” channel http://www.technocrats.com.ua/ - futurology, forecasts for the near and not very future, high-tech and news of cyberpunk that we deserve.
 
- * [Приёмы при работе с ПК, чат](https://t.me/assistpcchat) - Help for PC users
+ * [Приёмы при работе с ПК, чат](https://t.me/assistpcchat) - Help for PC users.
 
- * [Нетсталкерские Мемы](https://t.me/netstalking_memes) - Russian netstalking inside memes
+ * [Нетсталкерские Мемы](https://t.me/netstalking_memes) - Russian netstalking inside memes.
 
