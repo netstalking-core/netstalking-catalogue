@@ -48,8 +48,6 @@
 
  * [@konofound](https://t.me/konofound) - 220 OK, RTSP noauth камеры и прочая открытая (!) прелесть.
 
- * [NSG - Системы управления](https://t.me/joinchat/AAAAAFF7PfUCYhD7a1Pp4A) - Системы управления АСУ ТП, САУ, PLC контроллеры, DCS, SCADA и IIoT.
-
 ### Паблики ВК
 
  * [Нетсталкинг Оверграунд](https://vk.com/netover) - призван сделать идеи и методы нетсталкинга более доступными. Гайды, ссылкоподборки, примеры поиска и заметки. Подходит для начального уровня.
@@ -155,9 +153,6 @@
  * [R4D4N](https://t.me/r4d4n) - Радиосталкинг.
 
  * [Linux Stalkers](https://t.me/linuxstalkers) - Обсуждения систем Linux и около.
-
- * [DD-Netstalking](https://t.me/joinchat/FjxW7UwGQXC5p8I6kO2UjA) - Чат для несталкинга и обсуждения всего, что к нему относится.
-   * [Netstalking is our life](https://t.me/netstalkinglife) - Канал.
 
  * [Netstalking - Internet Exploration](https://t.me/internetexpl0rati0n) - Англоязычное сообщество исследователей.
    * [Darknet Archive](https://t.me/Darknet_planet) - Интересные сайты Даркнета - Даркнет для всех
