@@ -46,10 +46,7 @@
 
  * [@netstalking_overground](https://t.me/netstalking_overground) - зеркало Оверграунда в Telegram.
 
- * [@konofound](https://t.me/konofound) - 220 OK, RTSP noauth камеры и прочая открытая (!) прелесть.
-
- * [NSG - Системы управления](https://t.me/nsg_vnc) - Системы управления АСУ ТП, САУ, PLC контроллеры, DCS, SCADA и IIoT.
-
+ 
 ### Паблики ВК
 
  * [Нетсталкинг Оверграунд](https://vk.com/netover) - призван сделать идеи и методы нетсталкинга более доступными. Гайды, ссылкоподборки, примеры поиска и заметки. Подходит для начального уровня.
@@ -157,11 +154,13 @@
 
  * [Linux Stalkers](https://t.me/linuxstalkers) - обсуждения систем Linux и около.
 
+
  * [DD-Netstalking](https://t.me/joinchat/FjxW7UwGQXC5p8I6kO2UjA) - чат для несталкинга и обсуждения всего, что к нему относится.
    * [Netstalking is our life](https://t.me/netstalkinglife) - канал.
 
  * [Netstalking - Internet Exploration](https://t.me/internetexpl0rati0n) - англоязычное сообщество исследователей.
-   * [Darknet Archive](https://t.me/Darknet_planet) - интересные сайты Даркнета - Даркнет для всех.
+   * [Darknet Archive](https://t.me/Darknet_planet) - Канал находок этого сообщества, интересные сайты даркнета.
+
    * [The dark corner of the surface](https://t.me/dark_surface)
    * [Digital Eyes](https://t.me/Netstalking_Eyes) - снимки с камер.
    * [DIgital Eyes (group)](https://t.me/Netstalkingeyes)
@@ -202,7 +201,6 @@
  * [unknwn404](https://t.me/unknwn404_official) - небольшая нетсталкерская команда unknwn404, выкладывают ссылки на необычные сайты из Tor и клирнета.
    * <https://t.me/unknwn404_public_group> - чат.
 
- * [Консорциум нетсталкерской сети](https://t.me/deep_web_10) - разработка стандартов распределённой сети поиска, анализа и обмена находками.
 
 ### Проекты
 
@@ -215,13 +213,17 @@
 
  * [Influence](https://t.me/influence_dev) - чат по разработке децентрализованного мессенджера на Андроид.
    * [Github](https://github.com/ChronosX88/Influence-android)
+   
+ * [Консорциум нетсталкерской сети](https://t.me/deep_web_10) - разработка стандартов распределённой сети поиска, анализа и обмена находками.
 
 ## Контент
 
 То, что **вне команд и проектов** (их контент в соответствующих разделах). Обработанные и необработанные результаты сканирования, ручного поиска, парсинга, граббинга, сетевая аналитика и т. п.
  * [Netstalking Godnota](https://t.me/netstalking_godnota) - архив всех сколь-нибудь полезных и интересных вещей из конфы "Точка Сбора", обладает внутренними подканалами для разных направлений и тем.
 
- * [Randomchaos](https://t.me/randomaesthetic) - сайты как искусство или не особо.
+ * [NSG - Системы управления](https://t.me/nsg_vnc) - системы управления АСУ ТП, САУ, PLC контроллеры, DCS, SCADA и IIoT.
+ * [NSG - Neocities](https://t.me/joinchat/Rdwe5qVbzZpqHiOI) - необычное с глубин хостинга Neocities
+ * [Randomchaos](https://t.me/randomaesthetic) - сайты как искусство или не особо. Нет-арты и схожее с ними.
 
  * [|_C@m$_|](https://t.me/ccaammss) - необычные скриншоты с камер наблюдения.
 
@@ -257,7 +259,7 @@
 
  * [TeleStalk](https://t.me/telestalk) - рандомсталкинг по Telegram в поисках интересных каналов/чатов/ботов.
 
- * [/home/user/netstalking/screenshots](https://t.me/netstalking_screenshots) - канал со скриншотами веб-страниц.
+ * [/home/user/netstalking/screenshots](https://t.me/netstalking_screenshots) - скриншоты заглушек и веб-морд.
 
  * [Сайты одного сервера reg.ru](https://t.me/RegRuLeaks) - URL сайтов которые хостятся на сервере Reg.ru. Количество сайтов: 588,121.
 
@@ -266,8 +268,10 @@
  * [Onion Links](https://t.me/RussianOnionLinks) - здесь вы можете найти полезные даркнет ссылки. Кидайте свои ссылки в предложку. Записи периодически обновляются.
 
  * [Свалка нетсталкерских находок](https://t.me/finds_dump_netstalking) - канал для неструктуризированного выделения интересных находок, которые были найдены в различных конференциях по нетсталкерской тематике.
+  
+ * [@konofound](https://t.me/konofound) - 220 OK, RTSP noauth камеры и прочая открытая (!) прелесть.
 
- * [ARTSTALKING](https://t.me/ARTSTALLING) - здесь вы найдёте контент по искусству.
+ * [ARTSTALKING](https://t.me/ARTSTALLING) - сайты, посвящённые искусству.
 
  * [Geography Cyberspace](https://t.me/netstalky) - информация о географии киберпространства.
 
