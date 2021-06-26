@@ -183,6 +183,7 @@
    * [Asleep Cams Aésthetic](https://t.me/asleepshit) - особенные кадры. Игра тени, симметрии и цвета.
    * [Dicrurus Adsimilis](https://t.me/Dicrurus) - контактное лицо в Telegram.
    * [Ordo Asleep](http://ordo-asleep.online) - сайт.
+   * [Asleep NET](https://t.me/asleep_netstalking) - аслиповское подразделение нетсталкинга.
 
  * [Тёмная Тайга](https://vk.com/taiga_project) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и FTP-сервера.
 
