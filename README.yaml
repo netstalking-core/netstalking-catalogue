@@ -619,6 +619,11 @@ content:
             description:
               ru: необычные скриншоты с камер наблюдения.
               en: unusual shots from surveillance cameras.
+          - name: @netrandom_cams
+            link: https://t.me/netrandom_cams
+            description:
+              ru: Отборное фото с камер видеонаблюдения всего мира (нетрандом).
+              en: Selected photos from surveillance cameras around the world (netrandom).
           - name: E:/cam_stalk
             link: https://t.me/cam_stalk
             description:
