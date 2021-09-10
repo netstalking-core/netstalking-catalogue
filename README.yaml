@@ -96,8 +96,8 @@ toc:
 content:
   core:
     items:
-      - name: "@netstalking"
-        link: https://t.me/netstalking
+      - name: "@netstalking3"
+        link: https://t.me/netstalking3
         description:
           ru: Вход в Точку Сбора, центральную конфу по нетсталкингу.
           en: Entrypoint to Точка Сбора, central netstalking community.
@@ -619,7 +619,7 @@ content:
             description:
               ru: необычные скриншоты с камер наблюдения.
               en: unusual shots from surveillance cameras.
-          - name: @netrandom_cams
+          - name: netrandom_cams
             link: https://t.me/netrandom_cams
             description:
               ru: Отборное фото с камер видеонаблюдения всего мира (нетрандом).
