@@ -21,7 +21,7 @@ This catalog is a roadmap for the foreseeable list of network sites useful for a
 
 # Core
 
- * [@netstalking](https://t.me/netstalking) - Entrypoint to Точка Сбора, central netstalking community.
+ * [@netstalking3](https://t.me/netstalking3) - Entrypoint to Точка Сбора, central netstalking community.
 
  * Каталог - [x] You are here.
 
@@ -223,6 +223,8 @@ What is **outside teams and projects** (their content is in the relevant section
  * [Randomchaos](https://t.me/randomaesthetic) - Sites as art (or nope).
 
  * [|_C@m$_|](https://t.me/ccaammss) - unusual shots from surveillance cameras.
+
+ * [netrandom_cams](https://t.me/netrandom_cams) - Selected photos from surveillance cameras around the world (netrandom).
 
  * [E:/cam_stalk](https://t.me/cam_stalk) - similar to "Endless Wandering on Cameras".
 
