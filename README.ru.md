@@ -182,7 +182,7 @@
    * [@asleep_cg](https://t.me/asleep_cg) - чат для разбора, обсуждения и разработки средств наскана камер.
    * [Asleep Cams Aésthetic](https://t.me/asleepshit) - особенные кадры. Игра тени, симметрии и цвета.
    * [Dicrurus Adsimilis](https://t.me/Dicrurus) - Контактное лицо в ТГ.
-   * [Ordo Asleep](http://ordo-asleep.online) - Сайт.
+ 
 
  * [Тёмная Тайга](https://vk.com/taiga_project) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера.
 
@@ -260,8 +260,6 @@
 
  * [/home/user/netstalking/screenshots](https://t.me/netstalking_screenshots) - Канал со скриншотами веб-страниц.
 
- * [Сайты одного сервера reg.ru](https://t.me/RegRuLeaks) - URL сайтов которые хостятся на сервере Reg.ru. Количество сайтов: 588,121
-
  * [/home/user/netstalking/onions](https://t.me/onionnetstalk) - Скриншоты сайтов .onion (Tor).
 
  * [Onion Links](https://t.me/RussianOnionLinks) - Здесь вы можете найти полезные даркнет ссылки. Кидайте свои ссылки в предложку. Записи периодически обновляются.
@@ -299,7 +297,6 @@
  * [Утечки информации](https://t.me/dataleak) - авторские статьи про утечки данных, информационная безопасность.
 
  * [L0cation_Undefined](https://t.me/l0cation_u) - сталкинг интересных объектов на картографических сервисах.
-   * <https://t.me/l0cation_u_open> - Открытый чат в ТГ.
    * [@antbzprdl](https://t.me/antbzprdl) - Контактное лицо в тг.
 
  * [@in51d3](https://t.me/in51d3) - Инфобез, сети, осинт, IoT и прочие интересности от @N3M351DA.
