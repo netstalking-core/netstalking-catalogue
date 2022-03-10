@@ -1,6 +1,6 @@
 # Каталог нетсталкерских ресурсов
 
-Данный каталог - дорожная карта по обозримому перечню полезных для нетсталкера сетевых площадок. Добавить себя, или запостить своё в Доску объявлений - обращайтесь в Точку Сбора либо [@netstalking_messenger_bot](https://t.me/netstalking_messenger_bot)
+Данный каталог - дорожная карта по обозримому перечню полезных для нетсталкера сетевых площадок.
 
 - [Ядро](#Ядро)
 - [Общий каталог](#Общий-каталог)
@@ -21,7 +21,7 @@
 
 # Ядро
 
- * [@netstalking3](https://t.me/netstalking3) - Вход в Точку Сбора, центральную конфу по нетсталкингу.
+ * [Точка Входа](https://t.me/netstalking) - Вход в **Точку Сбора**, центральную конференцию по нетсталкингу.
 
  * Каталог - [x] Вы находитесь здесь.
 
@@ -37,18 +37,15 @@
 
  * [ultimate-netstalking-guide](https://github.com/pantyusha/ultimate-netstalking-guide/) - советы и ссылки на поисковики, файлообменники.
 
- * [Network neighborhood](https://netwhood.online/) - мануалы и инфа по сетевым технологиям, включая оверлейные и альтернативные сети.
-   * [@netstalking_networks](https://t.me/netstalking_networks) - Чат проекта.
-
 ### Каналы ТГ
 
  * [@netstalkcypher](https://t.me/netstalkcypher) - образовательный канал по шифротекстам с гайдами.
 
  * [@netstalking_overground](https://t.me/netstalking_overground) - зеркало Оверграунда в ТГ.
 
- * [@konofound](https://t.me/konofound) - 220 OK, RTSP noauth камеры и прочая открытая (!) прелесть.
+ * [@konofound](https://t.me/konofound) - 220 OK, RTSP noauth камеры и прочая открытая (!) прелесть. Канал лишился админ состава в августе 2021 года, [дамп](https://disk.yandex.ru/d/K5yck1bTYgM-mg).
 
- * [NSG - Системы управления](https://t.me/joinchat/AAAAAFF7PfUCYhD7a1Pp4A) - Системы управления АСУ ТП, САУ, PLC контроллеры, DCS, SCADA и IIoT.
+ * [NSG - Системы управления](https://t.me/nsg_vnc) - Системы управления АСУ ТП, САУ, PLC контроллеры, DCS, SCADA и IIoT.
 
 ### Паблики ВК
 
@@ -65,12 +62,12 @@
 
  * [Хидден-пак](https://yadi.sk/d/R0VdqI_93JyssH) - весь необходимый софт, собран и применяется группой H.I.D.D.E.N - набор инструкций и ссылок для начинающих от них же.
 
- * [Camshift](https://t.me/camshift) - выкладывают новый софт для работы с камерами.
+ * [Camshift](https://t.me/camshift) - выкладывали новый софт для работы с камерами. Не обновляется с 04.11.2018, [дамп](https://disk.yandex.ru/d/6cfcX3DEZXpdgA).
 
 ### Софт open-source
 
  * [v696973](https://github.com/v696973/) - система скана и хранения "Отклик", проекты по интеллектуальной обработке сетевых объектов и др.
-   * [V for...](https://t.me/v_for) - Блог автора.
+   * [V for...](https://t.me/v_for) - Блог автора. Автор перестал выходить на связь в марте 2020 года, [дамп](https://disk.yandex.ru/d/P3l_utPVagiKtg).
 
  * [pantyusha](https://github.com/pantyusha) - грабберы ргхоста, сборка Нески, некоторый другой софт и гайды.
 
@@ -94,6 +91,7 @@
    * [Webhost.ru](https://t.me/webhost_archive) - webhost.ru
 
  * [CCTV vision](https://t.me/cctv_vision) - Снапшоты с камер, идексированных поисковиком Shodan.
+   * [Код скрипта](https://github.com/tinseldev/shocator) для постинга снапшотов. 
 
  * Сканбот - рандомскан портов
    * [HTTP](https://t.me/gohquooFee3duaNaeNuthushoh8di2)
@@ -137,11 +135,11 @@
 
 ## Общение
 
- * [Network Neighborhood](https://t.me/netstalking_networks) - сетевые соседушки. Исследование сетей разных типов - оверлейные, P2P, любительские VPN разной степени закрытости. Активно подключаются к Yggdrasil.
-
- * [Asleep Cams](https://t.me/asleep_cg) - Всё о камерах: поиск, просмотр, разработка софта.
+ * [Network Neighborhood](https://t.me/netstalking_networks) - сетевые соседушки. Исследование сетей разных типов - оверлейные, P2P, любительские VPN разной степени закрытости. Активно подключаются к Yggdrasil. Сообщество прекратило свое существование в январе 2022 года. Сайт [сохранен](https://web.archive.org/web/20210925165712/https://netwhood.online/) в Интернет Архиве.
 
  * [Мусорщики Web 1.0](https://t.me/web10_scavengers) - проект парсинга и сохранения наследия "наивного" раннего веба. Приют ностальгирующих и любителей эстетики кустарного дизайна.
+
+ * [narodweb.ru](http://narodweb.ru) - Web 1.0 проект "Народное достояние Рунета", посвящённый Интернету конца 90х - середины 2000х годов.
 
  * [49406-форум](https://forum.netstalking.ru) - нетсталкерский форум по всем направлениям.
    * [Музей](http://museum.netstalking.ru) - музей старых сайтов интересных проектов.
@@ -170,24 +168,15 @@
    * [Webscraping - OpenNIC](https://t.me/opennic2) - Сайты с необычными OpenNIC-доменами.
 
  * Околотематическое общение
-   * [Точка Выхода](https://t.me/joinchat/B17SF07L7phzDcqUIaeQ7w) - Дочерняя конференция Точки Сбора для свободного общения.
+   * [Точка Выхода](https://t.me/+TsvumDH78fk08Bpj) - Дочерняя конференция Точки Сбора для свободного общения.
    * [Анимежабы и Сетевые Искатели](https://t.me/network_explorers) - Конференция для свободного обмена информацией и общения.
-   * [Альтернативная Точка Выхода](https://t.me/joinchat/GaxQCEVlKw5sSBX9u_pohw) - Площадка для нетематического общения.
+   * [Альтернативная Точка Выхода](https://t.me/+55hOSJd39uswNmUy) - Площадка для нетематического общения.
 
 ## Команды
 
 Возможно, вы станете участником одной из них.
- * [Asleep Netstalking Squad](https://vk.com/asleep_net) - **камеры** и избранные скриншоты с них. Красота в глазах смотрящего.
-   * [Asleep_Cams](https://t.me/asleep_cams) - канал свеженасканенных камер в Telegram.
-   * [@asleep_cg](https://t.me/asleep_cg) - чат для разбора, обсуждения и разработки средств наскана камер.
-   * [Asleep Cams Aésthetic](https://t.me/asleepshit) - особенные кадры. Игра тени, симметрии и цвета.
-   * [Dicrurus Adsimilis](https://t.me/Dicrurus) - Контактное лицо в ТГ.
-   * [Ordo Asleep](http://ordo-asleep.online) - Сайт.
 
  * [Тёмная Тайга](https://vk.com/taiga_project) - выкладывают ресурсы из Tor, ZeroNet, необычные сайты, места на картах и ftp-сервера.
-
- * [Darksearch](https://vk.com/darksearch) - позиционируют себя как центральная команда, выкладывающая лучшие находки. На практике часто репостят чужое, в т.ч. без обратной ссылки. В рабочем чате замечено распространение мальварей под видом Asleep Scanner.
-   * [@darksearch_netstalking](https://t.me/darksearch_netstalking)
 
  * [Viewpoint](https://t.me/viewpoint_channel) - исследование закрытых сообществ и деструктивных сект.
 
@@ -195,8 +184,7 @@
    * [Канал результатов работы H.I.D.D.E.N](https://t.me/group_hidden) - дубль в телеграме.
    * [@v0id3r](https://t.me/v0id3r) - Контактное лицо в телеграме.
 
- * [BlackNode Research](https://t.me/blacknode_research) - исследования на нейросетях и разработки для тематики.
-   * [@blacknode_researcher](https://t.me/blacknode_researcher) - Контактное лицо в ТГ.
+ * [BlackNode Research](https://t.me/blacknode_research) - исследования на нейросетях и разработки для тематики. Канал не обновляется с августа 2018 года, [дамп](https://disk.yandex.ru/d/eISuM5SRjalzuQ)
 
  * [unknwn404](https://t.me/unknwn404_official) - небольшая нетсталкерская команда unknwn404, выкладывают ссылки на необычные сайты из Tor и клирнета.
    * <https://t.me/unknwn404_public_group> - Чат.
