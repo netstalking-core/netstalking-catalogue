@@ -37,7 +37,7 @@ This catalog is a roadmap for the foreseeable list of network sites useful for a
 
  * [ultimate-netstalking-guide](https://github.com/pantyusha/ultimate-netstalking-guide/) - advices and links to search engines and file shares.
 
- * [Network neighborhood](https://netwhood.online/) - manuals and information about network technologies, including overlay and alternative networks.
+ * Network neighborhood - manuals and information about network technologies, including overlay and alternative networks.
    * [@netstalking_networks](https://t.me/netstalking_networks) - Project chat.
 
 ### TG channels
@@ -228,7 +228,7 @@ What is **outside teams and projects** (their content is in the relevant section
 
  * [E:/cam_stalk](https://t.me/cam_stalk) - similar to "Endless Wandering on Cameras".
 
- * [Горизонт Событий](https://t.me/darknet_prison) - The most active and voluminous archive of fresh sites from the Tor with descriptions and analysis.
+ * [Горизонт Событий](https://t.me/darkn3t_prison) - The most active and voluminous archive of fresh sites from the Tor with descriptions and analysis.
 
  * [Random Open Science](https://t.me/netstalking_open_science) - servers of research centers and universities found randomly. Descriptions of research areas are included. The goal of the project is to collect in one place sources of data and results that are useful to other researchers.
 
