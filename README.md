@@ -115,6 +115,8 @@
  * [[NSG Asleep] Twonky](https://t.me/tw0nky) - Изображения из случайных открытых серверов Twonkymedia.
 
  * [Spy Camera (CCTV)](https://t.me/camera_spy) - Случайные камеры.
+ 
+ * [YouTube Stalker](https://t.me/youtubestalkerbot) - Случайное видео с YouTube.
 
 ### Поисковики
 
